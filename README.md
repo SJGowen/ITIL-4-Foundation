@@ -1,4 +1,4 @@
-## General terminology
+### General terminology
 A service is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 A risk is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 A product is a configuration of an organisation's resources designed to offer value for a consumer.
@@ -8,7 +8,7 @@ A customer is a person who defines the requirements for a service and takes resp
 Utility is the functionality offered by a product or service to meet a particular need.
 Service management is a set of organisational capabilities for enabling value for customers in the form of services.
 
-ITIL Service Value System
+### ITIL Service Value System
 Governance is the means by which the organisation is directed and controlled.
 A practice is a set of organisational resources designed for performing work or accomplishing an objective.
 Service value chain is a set of interconnected activities that an organisation performs to deliver a valuable product or service to its consumers.
@@ -16,7 +16,7 @@ Continual improvement is a recurring organisational activity performed at all le
 A guiding principle is a recommendation that can guide an organisation in all circumstances.
 The ITIL SVS describes how all components and activities of the organisation work together as a system to enable value creation.
 
-Service Value Chain
+### Service Value Chain
 Obtain/Build = Ensures that service components are available when and where they are needed, and meet agreed specifications.
 Improve = Ensures continual improvement of products, services and practices across all value chain activities and all four dimensions of service management.
 Deliver and support = Ensures that services are delivered and supported according to agreed specifications and stakeholders' expectations.
@@ -24,7 +24,7 @@ Engage = To provide a good understanding of stakeholder needs, transparency, and
 Design and transition = Ensures that products and services continually meet stakeholder expectations for quality, costs and time-to-market.
 Plan = Ensures a shared understanding of the vision, current status and improvement direction for all four dimensions and all products and services across the organisation.
 
-ITIL Practices in detail
+### ITIL Practices in detail
 Problem management = To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
 Incident management = To minimise the negative impact of incidents by restoring normal service operation as quickly as possible.
 Continual improvement = To align the organisation's practices and services with changing business needs through the ongoing improvement of products, services, and practices, or any element involved in the management of products and services.
@@ -36,7 +36,7 @@ Service level management = This practice would collect, analyse, store and repor
 Change enablement = Maximise the number of successful IT changes by ensuring that risks have been properly assessed, authorising changes to proceed, and managing a change schedule.
 Service request management = To support the agreed quality of service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner.
 
-Guiding principles
+### Guiding principles
 'Take time to map out the standard and repeating processes as far as possible, and streamline them where you can.' = Optimise and automate
 'If a process, service, action, or metric fails to provide value or produce a useful outcome, then eliminate it.' = Keep it simple and practical
 'Look at what exists already as objectively as possible, using the customer or desired outcome as the starting point.' = Start where you are
@@ -45,7 +45,7 @@ Guiding principles
 'Change is happening all the time, so it is important to seek and use feedback at all times and at all levels.' = Progress iteratively with feedback
 'When initiatives include the right people, in the correct roles, efforts benefit from better buy-in.' = Collaborate and promote visibility
 
-Four Dimensions of SM
+### Four Dimensions of SM
 Systems of authority and communication = Organisations and people
 Workflow management and inventory systems = Information and technology
 Focuses on activities the organisation undertakes and how they are organised = Value streams and processes
@@ -57,7 +57,7 @@ Management and leadership styles = Organisations and people
 Challenges represented by security and regulatory compliance = Information and technology
 Roles and responsibilities of staff = Organisations and people
 
-Other ITIL Practices
+### Other ITIL Practices
 Supplier management = To support the provision of seamless quality products and services.
 IT asset management = To plan and manage the full lifecycle of all IT assets.
 Deployment management = To be involved in moving components to testing or staging environments.
@@ -70,4 +70,3 @@ Supplier management = Ensures that the organisation's suppliers and their perfor
 Relationship management = Ensures products and services facilitate value creation for the service consumers as well as for the organisation.
 Deployment management = Works closely with release management and change control, but is a separate practice aimed at moving components to live environments.
 Relationship management = Establish and nurture the links between the organisation and its stakeholders at strategic and tactical levels.
-
