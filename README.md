@@ -1,4 +1,4 @@
-General terminology
+## General terminology
 A service is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 A risk is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 A product is a configuration of an organisation's resources designed to offer value for a consumer.
