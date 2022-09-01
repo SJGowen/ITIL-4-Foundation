@@ -1,11 +1,18 @@
 ### General terminology
 A service is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+
 A risk is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
+
 A product is a configuration of an organisation's resources designed to offer value for a consumer.
+
 An outcome is a result for a stakeholder enabled by one or more outputs.
+
 Value is the perceived benefits, usefulness, and importance of something.
+
 A customer is a person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
+
 Utility is the functionality offered by a product or service to meet a particular need.
+
 Service management is a set of organisational capabilities for enabling value for customers in the form of services.
 
 ### ITIL Service Value System
