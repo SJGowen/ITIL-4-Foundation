@@ -29,7 +29,7 @@ A [:man_shrugging:](/answers/GuidingPrinciple.md) is a recommendation that can g
 The ITIL SVS describes how all components and activities of the organisation work together as a system to enable [:man_shrugging:](/answers/ValueCreation.md).
 
 ### Service Value Chain
-[:man_shrugging:](/answers/Obtain/Build.md) = Ensures that service components are available when and where they are needed, and meet agreed specifications.
+[:man_shrugging:](/answers/ObtainBuild.md) = Ensures that service components are available when and where they are needed, and meet agreed specifications.
 
 [:man_shrugging:](/answers/Improve.md) = Ensures continual improvement of products, services and practices across all value chain activities and all four dimensions of service management.
 
