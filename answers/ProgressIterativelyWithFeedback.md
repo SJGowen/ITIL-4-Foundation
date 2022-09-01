@@ -1,1 +1,1 @@
-**Progress Iteratively With Feedback**
+**Progress Iteratively with Feedback**
