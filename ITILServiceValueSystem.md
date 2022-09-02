@@ -1,4 +1,7 @@
 ### ITIL Service Value System
+
+Choose from: Service value chain, Governance, Opportunity/Demand, Guiding principle, Practice, Continual improvement, Value stream, Value creation & Revenue generation.
+
 [:man_shrugging:](/answers/Governance.md) is the means by which the organisation is directed and controlled.
 
 A [:man_shrugging:](/answers/practice.md) is a set of organisational resources designed for performing work or accomplishing an objective.
