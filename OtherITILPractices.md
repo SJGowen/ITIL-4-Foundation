@@ -1,4 +1,7 @@
 ### Other ITIL Practices
+
+Choose from: Deployment management, Release management, Monitoring and event management, Information security management, Relationship management, IT asset management, Supplier management & Service configuration management.
+
 [:man_shrugging:](/answers/SupplierManagement.md) = To support the provision of seamless quality products and services.
 
 [:man_shrugging:](/answers/ITAssetManagement.md) = To plan and manage the full lifecycle of all IT assets.
