@@ -1,4 +1,7 @@
 ### Service Value Chain
+
+Choose from: Plan, Improve, Engage, Design and transition, Obtain/Build & Deliver and support.
+
 [:man_shrugging:](/answers/ObtainBuild.md) = Ensures that service components are available when and where they are needed, and meet agreed specifications.
 
 [:man_shrugging:](/answers/Improve.md) = Ensures continual improvement of products, services and practices across all value chain activities and all four dimensions of service management.
