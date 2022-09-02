@@ -1,4 +1,7 @@
 ### Guiding Principles
+
+Choose from: Focus on value, Start where you are, Progress iteratively with feedback, Collaborate and promote visibility, Think and work holistically, Keep it simple and practical & Optimise and automate.
+
 'Take time to map out the standard and repeating processes as far as possible, and streamline them where you can.' = [:man_shrugging:](/answers/OptimiseAndAutomate.md)
 
 'If a process, service, action, or metric fails to provide value or produce a useful outcome, then eliminate it.' = [:man_shrugging:](/answers/KeepItSimpleAndPractical.md)
