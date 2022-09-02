@@ -1,4 +1,7 @@
 ### ITIL Practices in Detail
+
+Choose from: Incident management, Service request management, Continual improvement, Problem management, Change enablement, Service desk & Service level management.
+
 [:man_shrugging:](/answers/ProblemManagement.md) = To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
 
 [:man_shrugging:](/answers/IncidentManagement.md) = To minimise the negative impact of incidents by restoring normal service operation as quickly as possible.
