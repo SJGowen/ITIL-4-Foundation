@@ -2,9 +2,9 @@
 
 Choose from: Value streams and processes, Organisations and people, Information and technology & Partners and suppliers.
 
-Systems of authority and communication = [:woman_shrugging:](/answers/OrganisationsAndPeople.md)
+Systems of authority and communication = [:man_shrugging:](/answers/OrganisationsAndPeople.md)
 
-Workflow management and inventory systems = [:man_shrugging:](/answers/InformationAndTechnology.md)
+Workflow management and inventory systems = [:woman_shrugging:](/answers/InformationAndTechnology.md)
 
 Focuses on activities the organisation undertakes and how they are organised = [:man_shrugging:](/answers/ValueStreamsAndProcesses.md)
 
