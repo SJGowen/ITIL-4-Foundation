@@ -2,7 +2,6 @@
 
 Choose from: <b>Product, Division, Outcome, Warranty, Customer, Service, Utility, Risk, Service Management & Value.</b>
 
-A 
 <select id="GT01" style="background-color:white">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
@@ -17,7 +16,6 @@ A
   <option value="Value">Value</option>
 </select> is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 
-A 
 <select id="GT02" style="background-color:red">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
@@ -32,7 +30,6 @@ A
   <option value="Value">Value</option>
 </select> is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 
-A 
 <select id="GT03" style="background-color:green">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
@@ -47,7 +44,6 @@ A
   <option value="Value">Value</option>
 </select> is a configuration of an organisation's resources designed to offer value for a consumer.
 
-An 
 <select id="GT04">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
@@ -76,7 +72,7 @@ An
   <option value="Value">Value</option>
 </select> is the perceived benefits, usefulness, and importance of something.
 
-A <select id="GT06">
+<select id="GT06">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
   <option value="Division">Division</option>
