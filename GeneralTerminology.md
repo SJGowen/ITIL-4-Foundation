@@ -18,3 +18,17 @@ A [:man_shrugging:](/answers/customer.md) is a person who defines the requiremen
 
 [:man_shrugging:](/answers/ServiceManagement.md) is a set of organisational capabilities for enabling value for customers in the form of services.
 
+<label for="GeneralTerminology">Choose an answer:</label>
+<select name="membership" id="membership">
+  <option value="Answer" selected>Answer</option>
+  <option value="Product">Product</option>
+  <option value="Division">Division</option>
+  <option value="Outcome">Outcome</option>
+  <option value="Warranty">Warranty</option>  
+  <option value="Customer">Customer</option>
+  <option value="Service">Service</option>
+  <option value="Utility">Utility</option>
+  <option value="Risk">Risk</option>
+  <option value="ServiceManagement">Service Management</option>
+  <option value="Value">Value</option>
+</select>
