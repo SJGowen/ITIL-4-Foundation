@@ -2,7 +2,8 @@
 
 Choose from: <b>Product, Division, Outcome, Warranty, Customer, Service, Utility, Risk, Service Management & Value.</b>
 
-A [<select id="GT01"><option value="Answer" selected>Answer</option>
+A <select id="GT01">
+  <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
   <option value="Division">Division</option>
   <option value="Outcome">Outcome</option>
@@ -13,7 +14,7 @@ A [<select id="GT01"><option value="Answer" selected>Answer</option>
   <option value="Risk">Risk</option>
   <option value="ServiceManagement">Service Management</option>
   <option value="Value">Value</option>
-</select>](/answers/service.md) is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+</select> is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 
 A [:man_shrugging:](/answers/risk.md) is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 
