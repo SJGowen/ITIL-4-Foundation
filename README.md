@@ -13,10 +13,10 @@
 ### Questions
 
 1) Which practice is responsible for moving components to live environments?
-A) Change enablement
-B) Release management
-C) IT asset management
-D) Deployment management
+- A. Change enablement
+- B. Release management
+- C. IT asset management
+- D. Deployment management
 <details>Answer D is correct - deployment management practice is all about moving service components to live environments.</details>
 
 
