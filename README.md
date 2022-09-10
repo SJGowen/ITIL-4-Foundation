@@ -19,14 +19,12 @@
 - D. Deployment management
 <details>Answer D is correct - deployment management practice is all about moving service components to live environments.</details>
 
-
 2) Which practice includes the classification and ownership of queries and requests from users?
 - A. Service desk
 - B. Incident management
 - C. Change enablement
 - D. Service level management
 <details>Answer A is correct - a key responsibility of the service desk is to classify and own all the queries and requests from users.</details>
-
 
 3) Which practice identifies metrics that reflect the customer's experience of a service?
 - A. Continual improvement
