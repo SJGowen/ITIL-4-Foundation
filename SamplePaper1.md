@@ -94,7 +94,7 @@
 - B. Change enablement
 - C. Problem management
 - D. Continual improvement
-<details>Answer D is correct - continual improvement needs to be committed to and practised everywhere in the organisation.<details>
+<details>Answer D is correct - continual improvement needs to be committed to and practised everywhere in the organisation.</details>
 
 15) The purpose of the 'information security management' practice is to [?] the organisation's information.
 - A. Store
