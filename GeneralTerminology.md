@@ -2,7 +2,7 @@
 
 Choose from: <b>Product, Division, Outcome, Warranty, Customer, Service, Utility, Risk, Service Management & Value.</b>
 
-A [<select id="GTAnswer01">include virtual="GTOptions.html"</select>](/answers/service.md) is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
+A [<select id="GTAnswer01">GTOptions.html</select>](/answers/service.md) is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 
 A [:man_shrugging:](/answers/risk.md) is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 
