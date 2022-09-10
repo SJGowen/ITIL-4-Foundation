@@ -1,5 +1,5 @@
 ## ITIL 4 Foundation Study Guide
-#### ITIL - stands for - Information Technology Infrastructure Library
+#### ITIL stood for - Information Technology Infrastructure Library
 ### Terms
 
 - [General Terminology](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/GeneralTerminology.md)
