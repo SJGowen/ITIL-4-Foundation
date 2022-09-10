@@ -10,6 +10,3 @@
 - [Four Dimensions of Service Management](FourDimensionsOfSM.md)
 - [Other ITIL Practices](OtherITILPractices.md)
 
-(hidden)
-https://github.com/SJGowen/ITIL-4-Foundation/blob/main/
-(/hidden)
