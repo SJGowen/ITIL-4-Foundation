@@ -19,9 +19,9 @@
 - C. IT asset management
 - D. Deployment management
 
-Answer:<details>
+<answer>
 Answer D is correct - deployment management practice is all about moving service components to live environments.
-</details>
+</answer>
 
 
 2) Which practice includes the classification and ownership of queries and requests from users?
