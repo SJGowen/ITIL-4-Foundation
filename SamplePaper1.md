@@ -159,7 +159,7 @@
 - Answer D is correct - value chain activities transform inputs into outputs.
 - Answer A is wrong since practices can go across several value chain activities.
 - Answer B is wrong since service relationships are formed between a service consumer and service provider.
-</details>Answer C is wrong because the service value chain can support multiple workflows.
+- Answer C is wrong because the service value chain can support multiple workflows.
 </details>
 
 23) What is the purpose of the ‘supplier management’ practice?
@@ -168,7 +168,7 @@
 - C. To ensure that the organisation's suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling, and delivery activities
 - D. To ensure that accurate and reliable information about the configuration of suppliers' services is available when and where it is needed
 <details>
-- Answer A is correct - supplier management is focused on ensuring the supplier's performance is constantly managed to enable quality products and services.
+- Answer A is correct, supplier management is focused on ensuring the supplier's performance is constantly managed to enable quality products and services.
 - Answer B is continual improvement practice.
 - Answer C is relationship management.
 - Answer D is service configuration management.
