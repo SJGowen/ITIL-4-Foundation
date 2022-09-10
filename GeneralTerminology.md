@@ -18,7 +18,7 @@ A
 </select> is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 
 A 
-<select id="GT02" style=""background-color:#228B22">
+<select id="GT02" style="background-color:#228B22">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
   <option value="Division">Division</option>
