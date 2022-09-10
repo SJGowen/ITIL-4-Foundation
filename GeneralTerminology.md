@@ -1,7 +1,5 @@
 ### General terminology
 
-Choose from: <b>Product, Division, Outcome, Warranty, Customer, Service, Utility, Risk, Service Management & Value.</b>
-
 <select id="GT01" style="background-color:white">
   <option value="Answer" selected>Answer</option>
   <option value="Product">Product</option>
@@ -122,4 +120,4 @@ Choose from: <b>Product, Division, Outcome, Warranty, Customer, Service, Utility
 </select> is a set of organisational capabilities for enabling value for customers in the form of services.
 
 
-<Button>Check my Answers!</Button>
+<button name="button">Check my Answers!</Button>
