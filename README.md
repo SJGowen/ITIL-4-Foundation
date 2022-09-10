@@ -2,10 +2,14 @@
 #### ITIL stood for - Information Technology Infrastructure Library
 ### Terms
 
-- [General Terminology](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/GeneralTerminology.md)
-- [ITIL Service Value System](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/ITILServiceValueSystem.md)
-- [Service Value Chain](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/ServiceValueChain.md)
-- [ITIL Practices in Detail](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/ITILPracticesInDetail.md)
-- [GuidingPrinciples](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/GuidingPrinciples.md)
-- [Four Dimensions of Service Management](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/FourDimensionsOfSM.md)
-- [Other ITIL Practices](https://github.com/SJGowen/ITIL-4-Foundation/blob/main/OtherITILPractices.md)
+- [General Terminology](GeneralTerminology.md)
+- [ITIL Service Value System](ITILServiceValueSystem.md)
+- [Service Value Chain](ServiceValueChain.md)
+- [ITIL Practices in Detail](ITILPracticesInDetail.md)
+- [GuidingPrinciples](GuidingPrinciples.md)
+- [Four Dimensions of Service Management](FourDimensionsOfSM.md)
+- [Other ITIL Practices](OtherITILPractices.md)
+
+(hidden)
+https://github.com/SJGowen/ITIL-4-Foundation/blob/main/
+(/hidden)
