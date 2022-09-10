@@ -19,7 +19,7 @@
 - C. IT asset management
 - D. Deployment management
 
-<details:Answer>
+<details>
 Answer D is correct - deployment management practice is all about moving service components to live environments.
 </details>
 
