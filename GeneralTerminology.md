@@ -1,6 +1,16 @@
 ### General terminology
 
-Choose from: Product, Division, Outcome, Warranty, Customer, Service, Utility, Risk, Service Management & Value.
+Choose from: 
+- Product
+- Division
+- Outcome
+- Warranty
+- Customer
+- Service
+- Utility
+- Risk
+- Service Management
+- Value
 
 A [:woman_shrugging:](/answers/service.md) is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 <details>
