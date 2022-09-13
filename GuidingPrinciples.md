@@ -1,6 +1,6 @@
 ### Guiding Principles
 
-Choose from: | Focus on value | Start where you are | Progress iteratively with feedback | Collaborate and promote visibility | Think and work holistically | Keep it simple | practical & Optimise and automate |
+Choose from: | Focus on value | Start where you are | Progress iteratively with feedback | Collaborate and promote visibility | Think and work holistically | Keep it simple | practical | Optimise and automate |
 
 'Take time to map out the standard and repeating processes as far as possible, and streamline them where you can.' = :man_shrugging:
 <details>
