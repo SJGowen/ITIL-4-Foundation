@@ -1,1 +1,0 @@
-**Collaborate and Promote Visibility**

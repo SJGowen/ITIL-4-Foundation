@@ -1,1 +1,0 @@
-**Think and Work Holistically**
