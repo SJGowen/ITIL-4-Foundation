@@ -312,3 +312,5 @@ Answers A, C and D are wrong since they are either too limited or use too many m
 - C. A possible event that could cause harm or loss, or make it more difficult to achieve objectives
 - D. The functionality offered by a product or service to meet a particular need
 <details>Answer B is correct - warranty is demonstrated to the service consumers when a service is delivered to its agreed requirements, often through the use of service levels.</details>
+
+[Back](README.md)
