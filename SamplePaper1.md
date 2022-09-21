@@ -201,7 +201,7 @@
 <details>Answer B is correct - focusing on a few key methods to drive continual improvement is recommended as this allows flexibility, while also allowing the opportunity for a mature understanding of how to use those methods.
 Answers A, C and D are wrong since they are either too limited or use too many methods, which prevents a mature understanding of their use.</details>
 
-27) Which TIL concept describes governance?
+27) Which ITIL concept describes governance?
 - A. The seven guiding principles
 - B. The four dimensions of service management
 - C. The service value chain
