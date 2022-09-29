@@ -25,7 +25,7 @@ An outcome is a result for a stakeholder enabled by one or more outputs.
 
 :woman_shrugging: is the perceived benefits, usefulness, and importance of something.
 <details>
-Value.md is the perceived benefits, usefulness, and importance of something.
+Value is the perceived benefits, usefulness, and importance of something.
 </details>
 
 A :man_shrugging: is a person who defines the requirements for a service and takes responsibility for the outcomes of service consumption.
