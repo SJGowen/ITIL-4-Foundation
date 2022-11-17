@@ -4,6 +4,7 @@
 #### Examination breakdown
 The following table gives an indicative breakdown of the amount of questions per syllabus module for the exam
 | Syllabus area | Target number of questions |
+| ------------- | -----:|
 | Understand the key concepts of service management | 5 |
 | Understand the TIL guiding principles | 6 |
 | Understand the four dimensions of service management | 2 |
