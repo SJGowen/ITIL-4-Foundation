@@ -8,7 +8,7 @@ The following table gives an indicative breakdown of the amount of questions per
 | 1. Understand the key concepts of service management | 5 |
 | 2. Understand the TIL guiding principles | 6 |
 | 3. Understand the four dimensions of service management | 2 |
-| 4. Understand the purpose and components of the ITIL Service Value System | 7 |
+| 4. Understand the purpose and components of the ITIL Service Value System | 1 |
 | 5. Understand the activities of the service value chain | 2 |
 | 6. Purpose and key terms of 15 TIL practices | 7 |
 | 7. Understand the 7 TIL practices in detail | 17 |
