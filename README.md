@@ -1,5 +1,6 @@
 ## ITIL 4 Foundation Study Guide
 #### ITIL stood for - Information Technology Infrastructure Library
+#### The purpose of ITIL 4 is to provide organisations with comprehensive guidance for the management of IT-enabled services in the digital economy
 
 #### Examination breakdown
 The following table gives an indicative breakdown of the amount of questions per syllabus module for the exam
