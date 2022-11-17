@@ -1,5 +1,17 @@
 ## ITIL 4 Foundation Study Guide
 #### ITIL stood for - Information Technology Infrastructure Library
+
+#### Examination breakdown
+The following table gives an indicative breakdown of the amount of questions per syllabus module for the exam
+| Syllabus area | Target number of questions |
+| Understand the key concepts of service management | 5 |
+| Understand the TIL guiding principles | 6 |
+| Understand the four dimensions of service management | 2 |
+| Understand the purpose and components of the ITIL Service Value System | 7 |
+| Understand the activities of the service value chain | 2 |
+| Purpose and key terms of 15 TIL practices | 7 |
+| Understand the 7 TIL practices in detail | 17 |
+
 ### Terms
 
 - [General Terminology](GeneralTerminology.md)
