@@ -12,6 +12,7 @@ The following table gives an indicative breakdown of the amount of questions per
 | 5. Understand the activities of the service value chain | 2 |
 | 6. Purpose and key terms of 15 TIL practices | 7 |
 | 7. Understand the 7 TIL practices in detail | 17 |
+
 Total of 40 multiple choice questions - Pass is 26/40 (65%)
 
 ### Terms
