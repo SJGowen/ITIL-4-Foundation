@@ -44,7 +44,7 @@
 - D. 1 and 4
 <details>Answer D is correct: customer engagement contributes to SLM by listening and capturing information on which to base the metrics relevant to service levels, and also then supporting that through ongoing progress discussions. Statement 2 is wrong since that is the practice of SLM itself rather than the customer engagement contribution.</details>
 
-7)) What is the starting point for optimisation?
+7) What is the starting point for optimisation?
 - A. Securing stakeholder engagement
 - B. Understanding the vision and objectives of the organisation
 - C. Determining where the most positive impact would be
