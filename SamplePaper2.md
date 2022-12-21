@@ -86,7 +86,7 @@
 - D. An application change
 <details>Answer C is correct: standard changes are often initiated as part of fulfilling service requests. This is due to service requests being part of normal service delivery where the changes initiated on behalf of the users are often low-risk, pre-authorised changes that are well understood and fully documented.</details>
 
-13) Which guiding principle emphasises the need to understand the flow of work in progress identify bottlenecks, and uncover waste?
+13) Which guiding principle emphasises the need to understand the flow of work in progress, identify bottlenecks, and uncover waste?
 - A. Focus on value
 - B. Collaborate and promote visibility
 - C. Think and work holistically
