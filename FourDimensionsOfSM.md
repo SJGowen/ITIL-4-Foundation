@@ -1,4 +1,4 @@
-### Four Dimensions of SM
+### Four Dimensions of Service Management (SM)
 
 Choose from: | Value streams and processes | Organisations and people | Information and technology | Partners and suppliers |
 
