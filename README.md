@@ -16,6 +16,8 @@ The following table gives an indicative breakdown of the amount of questions per
 
 Total of 40 multiple choice questions - Pass is 26/40 (65%)
 
+- [Key Concepts questions](KeyConcepts.md)
+
 ### Terms
 
 - [General Terminology](GeneralTerminology.md)
