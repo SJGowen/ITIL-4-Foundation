@@ -20,7 +20,8 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [ITIL Service Value System questions](ITILSVSQuestions.md)
 - [ITIL 4 Practices quesions](ITIL4PracticesQuesions.md)
 - [Guiding Principles questions](GuidingPrinciplesQuestions.md)
-- [Four Dimension of Service Management](FourDimensionsOfSMQuestions.md)
+- [Four Dimension of Service Management questions](FourDimensionsOfSMQuestions.md)
+- [Other ITIL Practices quesions](OtherITILPracticesQuestions.md)
 
 ### Terms
 
