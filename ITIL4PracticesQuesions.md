@@ -94,7 +94,6 @@ Which skills are most essential to staff who are part of the service desk?
 
 <details>
   D. 2 and 3 only
-<details>
+</details>
 
 [Back](README.md)
-  
