@@ -29,9 +29,11 @@ What is the definition of utility?
 
 <details>
   A. The functionality offered by a product or service to meet a particular need!
+  
   - B. Is Outcome
   - C. Is Risk
   - D. Is Warranty
+  
 </details>
 
 [Back](README.md)
