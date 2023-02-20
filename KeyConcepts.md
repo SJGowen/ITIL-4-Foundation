@@ -1,4 +1,4 @@
-A service is a means of enabling :man_shrugging: by facilitating outcomes that customers want to achieve?
+A service is a means of enabling value :man_shrugging: by facilitating outcomes that customers want to achieve?
 
 - A. Realisation
 - B. Co-creation
