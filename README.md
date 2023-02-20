@@ -19,6 +19,7 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [Key Concepts questions](KeyConceptsQuesions.md)
 - [ITIL Service Value System questions](ITILSVSQuestions.md)
 - [ITIL 4 Practices quesions](ITIL4PracticesQuesions.md)
+- [Guiding Principles questions](GuidingPrinciplesQuestions.md)
 
 ### Terms
 
