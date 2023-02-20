@@ -16,8 +16,9 @@ The following table gives an indicative breakdown of the amount of questions per
 
 Total of 40 multiple choice questions - Pass is 26/40 (65%)
 
-- [Key Concepts questions](KeyConcepts.md)
+- [Key Concepts questions](KeyConceptsQuesions.md)
 - [ITIL Service Value System questions](ITILSVSQuestions.md)
+- [ITIL 4 Practices quesions](ITIL4PracticesQuesions.md)
 
 ### Terms
 
