@@ -38,4 +38,6 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [Sample Paper 1](SamplePaper1.md)
 - [Sample Paper 2](SamplePaper2.md)
 
-### [ITL4 Tips](ITL4Tips.md)
+### ITL4 Tips
+
+- [ITL4 Tips](ITL4Tips.md)
