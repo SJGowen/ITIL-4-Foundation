@@ -7,14 +7,14 @@ ITIL4 can be summed up by 4, 5, 6 & 7!
 - 6 Activities of the Service Value Chain (SVC)
 - 7 Guiding Principles
 
-# 4 Dimensions of Service Management (SM)
+### 4 Dimensions of Service Management (SM)
 
 - Organisation and People
 - Information and Technology
 - Partners and Suppliers
 - Value Streams and processes
 
-# 5 Elements of the Service Value System (SVS)
+### 5 Elements of the Service Value System (SVS)
 
 - Guiding Principles
 - Governance
@@ -22,7 +22,7 @@ ITIL4 can be summed up by 4, 5, 6 & 7!
 - Practices
 - Continual Improvement
 
-# 6 Activities of the Service Value Chain
+### 6 Activities of the Service Value Chain
 
 - Plan
 - Improve
@@ -31,7 +31,7 @@ ITIL4 can be summed up by 4, 5, 6 & 7!
 - Obtain / Build
 - Deliver and Support
 
-# 7 Guiding Principles
+### 7 Guiding Principles
 
 - Focus on value
 - Start where you are
