@@ -22,7 +22,7 @@
 - Practices
 - Continual Improvement
 
-### 6 Activities of the Service Value Chain
+### 6 Activities of the Service Value Chain (SVC)
 
 - Plan
 - Improve
