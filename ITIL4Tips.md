@@ -1,6 +1,6 @@
 ## ITIL4 Tips
 
-ITIL4 can be summed up by 4, 5, 6 & 7!
+### ITIL4 can be summed up by 4, 5, 6 & 7!
 
 - 4 Dimensions of Service Management (SM)
 - 5 Elements of the Service Value System (SVS)
