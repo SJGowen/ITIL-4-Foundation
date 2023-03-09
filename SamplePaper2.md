@@ -126,8 +126,7 @@
 - B. A known error is the cause of one or more problems
 - C. Known errors cause vulnerabilities, problems cause incidents
 - D. Known errors are managed by technical staff, problems are managed by service management staff
-<details>Answer A is correct
-wrong answer B is the definition of a problem, not a known error.
+<details>Answer A is correct: Wrong answer B is the definition of a problem, not a known error.
 Answer C is wrong since vulnerabilities may be related to both problems and known errors.
 Answer D is wrong since SM staff and technical staff can both be involved in analysing problems and known errors.</details>
 
