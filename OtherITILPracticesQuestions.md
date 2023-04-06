@@ -20,7 +20,7 @@ The purpose of the IT asset management practice is to plan and manage the full :
   B. Lifecycle
 </details>
 
-Which practice has the purpose, 'to ensure that accurate and reliable information about the configuration of services, and the CIs that support them, is available when and where it is needed'?
+Which practice has the purpose, 'to ensure that accurate and reliable information about the configuration of services, and the configuration items (CIs) that support them, is available when and where it is needed'?
 
 - A. Service configuration management
 - B. Information security management
