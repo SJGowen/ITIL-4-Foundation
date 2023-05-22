@@ -24,7 +24,7 @@
 - B. Accurate and carefully analysed data
 - C. An up-to-date balanced scorecard
 - D. A recent maturity assessment
-<details>Answer B is correct: the practice of continual improvement and the decisions it makes around improvements need to be based on accurate data that is carefully analysed and understoo- D. The other answers, while giving maybe one piece of input, are too limited.</details>
+<details>Answer B is correct: the practice of continual improvement and the decisions it makes around improvements need to be based on accurate data that is carefully analysed and understood. The other answers, while giving maybe one piece of input, are too limited.</details>
 
 5) How do all value chain activities transform inputs to outputs?
 - A. By determining service demand
