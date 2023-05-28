@@ -4,17 +4,40 @@
 
 #### Examination breakdown
 The following table gives an indicative breakdown of the amount of questions per syllabus module for the exam:
-
-| Syllabus area | No of Qs |
-| ------------- | -----:|
-| 1. Understand the key concepts of service management | 5 |
-| 2. Understand the ITIL guiding principles | 6 |
-| 3. Understand the 4 dimensions of service management | 2 |
-| 4. Understand the purpose and components of the ITIL Service Value System | 1 |
-| 5. Understand the activities of the service value chain | 2 |
-| 6. Purpose and key terms of 15 ITIL practices | 7 |
-| 7. Understand the 7 ITIL practices in detail | 17 |
-
+ <table>
+  <tr>
+    <th>Syllabus area</th>
+    <th>No of Qs</th>
+  </tr>
+  <tr>
+    <td>1. Understand the key concepts of service management</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>2. Understand the ITIL guiding principles</td>
+    <td>6</td>
+  </tr>
+   <tr>
+    <td>3. Understand the 4 dimensions of service management</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>4. Understand the purpose and components of the ITIL Service Value System</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>5. Understand the activities of the service value chain</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>6. Purpose and key terms of 15 ITIL practices</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>7. Understand the 7 ITIL practices in detail</td>
+    <td>17</td>
+  </tr>
+</table>
 Total of 40 multiple choice questions - Pass is 26/40 (65%)
 
 - [Key Concepts questions](KeyConcepts.md)
