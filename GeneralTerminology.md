@@ -17,7 +17,7 @@ A &#10067; is a means enabling value co-creation by facilitating outcomes that c
 <details>
 A <b>service</b> is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 </details>
-<br>
+<br><br>
 A &#10067; is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
 <details>
 A <b>risk</b> is a possible event that could cause harm or loss, or make it more difficult to achieve objectives.
