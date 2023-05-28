@@ -40,6 +40,7 @@ The following table gives an indicative breakdown of the amount of questions per
 </table>
 Total of 40 multiple choice questions - Pass is 26/40 (65%)
 
+### Foundation 
 - [Key Concepts questions](KeyConcepts.md)
 - [ITIL Service Value System questions](ITILSVSQuestions.md)
 - [ITIL 4 Practices quesions](ITIL4PracticesQuesions.md)
@@ -48,7 +49,6 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [Other ITIL Practices quesions](OtherITILPracticesQuestions.md)
 
 ### Terms
-
 - [General Terminology](GeneralTerminology.md)
 - [ITIL Service Value System](ITILServiceValueSystem.md)
 - [Service Value Chain](ServiceValueChain.md)
@@ -58,10 +58,8 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [Other ITIL Practices](OtherITILPractices.md)
 
 ### Questions
-
 - [Sample Paper 1](SamplePaper1.md)
 - [Sample Paper 2](SamplePaper2.md)
 
 ### ITIL4 Tips
-
 - [ITIL4 Tips](ITIL4Tips.md)
