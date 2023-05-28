@@ -40,7 +40,7 @@
 - D. It determines how the service provider is perceived
 <details>Answer A is correct - correctly categorising an incident will enable the correct routing of an incident to the most appropriate resolving team.</details>
 
-7) A service is a means of enabling value co-creation by facilitating :woman_shrugging: that customers want to achieve.
+7) A service is a means of enabling value co-creation by facilitating &#10067; that customers want to achieve.
 - A. The warranty
 - B. Outcomes
 - C. The utility
@@ -96,7 +96,7 @@
 - D. Continual improvement
 <details>Answer D is correct - continual improvement needs to be committed to and practised everywhere in the organisation.</details>
 
-15) The purpose of the 'information security management' practice is to :man_shrugging: the organisation's information.
+15) The purpose of the 'information security management' practice is to &#10067; the organisation's information.
 - A. Store
 - B. Provide
 - C. Audit

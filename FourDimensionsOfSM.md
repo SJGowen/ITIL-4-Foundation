@@ -2,52 +2,52 @@
 
 Choose from: | Value streams and processes | Organisations and people | Information and technology | Partners and suppliers |
 
-Systems of authority and communication = :man_shrugging:
+Systems of authority and communication = &#10067;
 <details>
 Systems of authority and communication = <b>Organisations and People</b>
 </details>
 
-Workflow management and inventory systems = :woman_shrugging:
+Workflow management and inventory systems = &#10067;
 <details>
 Workflow management and inventory systems = <b>Information and Technology</b>
 </details>
 
-Focuses on activities the organisation undertakes and how they are organised = :man_shrugging:
+Focuses on activities the organisation undertakes and how they are organised = &#10067;
 <details>
 Focuses on activities the organisation undertakes and how they are organised = <b>Value Streams and Processes</b>
 </details>
 
-Service integration and management = :woman_shrugging:
+Service integration and management = &#10067;
 <details>
 Service integration and management = <b>Partners and Suppliers</b>
 </details>
 
-Workflows, activities, controls and procedures = :man_shrugging:
+Workflows, activities, controls and procedures = &#10067;
 <details>
 Workflows, activities, controls and procedures = <b>Value Streams and Processes</b>
 </details>
 
-Cloud computing = :woman_shrugging:
+Cloud computing = &#10067;
 <details>
 Cloud computing = <b>Information and Technology</b>
 </details>
 
-Relationships with other organisations that are involved in service = :man_shrugging:
+Relationships with other organisations that are involved in service = &#10067;
 <details>
 Relationships with other organisations that are involved in service = <b>Partners and Suppliers</b>
 </details>
 
-Management and leadership styles = :woman_shrugging:
+Management and leadership styles = &#10067;
 <details>
 Management and leadership styles = <b>Organisations and People</b>
 </details>
 
-Challenges represented by security and regulatory compliance = :man_shrugging:
+Challenges represented by security and regulatory compliance = &#10067;
 <details>
 Challenges represented by security and regulatory compliance = <b>Information and Technology</b>
 </details>
 
-Roles and responsibilities of staff = :woman_shrugging:
+Roles and responsibilities of staff = &#10067;
 <details>
 Roles and responsibilities of staff = <b>Organisations and People</b>
 </details>

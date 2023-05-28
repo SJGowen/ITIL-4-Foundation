@@ -9,7 +9,7 @@ Which practice has the purpose of establishing and nurturing the links between t
   C. Relationship management
 </details>
 
-The purpose of the IT asset management practice is to plan and manage the full :woman_shrugging: of all IT assets
+The purpose of the IT asset management practice is to plan and manage the full &#10067; of all IT assets
 
 - A. Cost
 - B. Lifecycle

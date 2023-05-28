@@ -51,7 +51,7 @@
 - D. Standardising practices and services
 <details>Answer B is correct: the first step of the principle, 'Optimise and automate' is to understand the context, which would include needing to understand the vision and objectives of the organisation.</details>
 
-8) The purpose of the :woman_shrugging: is to ensure that the organisation continually co-creates value with all stakeholders in line with the organisation's objectives.
+8) The purpose of the &#10067; is to ensure that the organisation continually co-creates value with all stakeholders in line with the organisation's objectives.
 - A. 'Focus on value' guiding principle
 - B. Four dimensions of service management
 - C. Service value system
@@ -114,7 +114,7 @@
 - D. Value streams and processes
 <details>Answer A is correct: governance which includes systems of authority and management is most relevant to how the organisation is structured and so most relevant to the organisations and people' dimension.</details>
 
-17) A known error is a problem that has been :man_shrugging: and has not been resolved.
+17) A known error is a problem that has been &#10067; and has not been resolved.
 - A. Logged
 - B. Analysed
 - C. Escalated
@@ -158,7 +158,7 @@ Answer D is wrong since SM staff and technical staff can both be involved in ana
 - D. Incident management
 <details>Answer D is correct: the purpose of the incident management practice is to minimise the negative impact of incidents by restoring normal service operation as quickly as possible</details>
 
-23) A customer is a role that defines the requirements for a service and takes responsibility for the :woman_shrugging: of service consumption.
+23) A customer is a role that defines the requirements for a service and takes responsibility for the &#10067; of service consumption.
 - A. Outputs
 - B. Outcomes
 - C. Costs
