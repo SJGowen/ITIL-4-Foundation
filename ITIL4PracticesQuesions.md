@@ -73,10 +73,10 @@
 <br>
          
 #### Which skills are most essential to staff who are part of the service desk?
-- 1. Governance knowledge
-- 2. Incident analysis
-- 3. Emotional intelligence
-- 4. Deep technical knowledge
+- 1) Governance knowledge
+- 2) Incident analysis
+- 3) Emotional intelligence
+- 4) Deep technical knowledge
 - A. 1 and 4 only
 - B. 1 and 3 only
 - C. 1 and 2 only
