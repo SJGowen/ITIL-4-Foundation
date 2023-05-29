@@ -23,6 +23,7 @@
 - 2. Highly technical in content
 - 3. Relate to defined outcomes and not just operational metrics
 - 4. Be imposed by the service provider on the service consumer
+
 - A. 1 and 4 only
 - B. 1 and 2 only
 - C. 1 and 3 only
