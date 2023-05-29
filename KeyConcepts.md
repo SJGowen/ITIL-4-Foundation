@@ -26,11 +26,10 @@ D. They authoise budget for service consumption!
 - C. A possible event that could cause harm or loss, or make it more difficult to achieve objectives
 - D. The assurance that a product or service will meet agreed requirements
 <details>
-  A. Utility : The functionality offered by a product or service to meet a particular need!
-  
-  - B. Outcome : A result for a stakeholder enabled by one or more outputs
-  - C. Risk : A possible event that could cause harm or loss, or make it more difficult to achieve objectives
-  - D. Warranty : The assurance that a product or service will meet agreed requirements
+- A. Utility : The functionality offered by a product or service to meet a particular need! 
+- B. Outcome : A result for a stakeholder enabled by one or more outputs
+- C. Risk : A possible event that could cause harm or loss, or make it more difficult to achieve objectives
+- D. Warranty : The assurance that a product or service will meet agreed requirements
 </details>
 <br>
 
