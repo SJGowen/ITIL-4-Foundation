@@ -19,10 +19,10 @@
 <br>
 
 #### Which of the following are key requirements for any SLA to be successful?
-- 1) Simply written and easy to understand
-- 2) Highly technical in content
-- 3) Relate to defined outcomes and not just operational metrics
-- 4) Be imposed by the service provider on the service consumer
+- 1 Simply written and easy to understand
+- 2 Highly technical in content
+- 3 Relate to defined outcomes and not just operational metrics
+- 4 Be imposed by the service provider on the service consumer
 - A. 1 and 4 only
 - B. 1 and 2 only
 - C. 1 and 3 only
