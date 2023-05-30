@@ -43,10 +43,10 @@
 2. It ensures the organisation meets defined service levels
 3. It defines the workflows for service requests
 4. It supports progress discussions
-- A. 1 and 2
-- B. 2 and 3
-- C. 3 and 4
-- D. 1 and 4
+A) 1 and 2
+B) 2 and 3
+C) 3 and 4
+D) 1 and 4
 <details>Answer D is correct: customer engagement contributes to SLM by listening and capturing information on which to base the metrics relevant to service levels, and also then supporting that through ongoing progress discussions. Statement 2 is wrong since that is the practice of SLM itself rather than the customer engagement contribution.</details>
 <br>
 
