@@ -313,7 +313,8 @@ Answers A, C and D are wrong since they are either too limited or use too many m
 1. Continual improvement
 2. Service request management
 3. Service level management
-4. Change enablement<br>
+4. Change enablement
+
 A) 1 and 2
 B) 2 and 3
 C) 3 and 4
