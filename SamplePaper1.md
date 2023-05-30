@@ -314,10 +314,10 @@ Answers A, C and D are wrong since they are either too limited or use too many m
 2. Service request management
 3. Service level management
 4. Change enablement
-- A. 1 and 2
-- B. 2 and 3
-- C. 3 and 4
-- D. 1 and 4
+A) 1 and 2
+B) 2 and 3
+C) 3 and 4
+D) 1 and 4
 <details>Answer D is correct - problem solutions can often be treated as improvement opportunities. Permanent solutions for problems would often result in the need to raise a change request and so involve the change enablement practice.</details>
 <br>
 
