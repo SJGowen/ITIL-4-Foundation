@@ -1,3 +1,4 @@
+##s ITIL4 Practices
 #### What is the purpose of the incident management practice?
 - A. To support the agreed quality of service by handling all pre-defined, user-initiated service requests in an effective and user-friendly manner
 - B. To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors
