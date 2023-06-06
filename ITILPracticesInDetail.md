@@ -2,7 +2,7 @@
 
 Choose from:
 
-| Incident management | Service request management | Continual improvement | Problem management | Change enablement | ervice desk | Service level management |
+| Incident management | Service request management | Continual improvement | Problem management | Change enablement | Service desk | Service level management |
 
 #### &#10067; = To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
 <details>
