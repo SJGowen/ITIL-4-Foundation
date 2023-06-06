@@ -1,19 +1,8 @@
 ### ITIL Service Value System
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Service value chain</td>
-    <td>Governance</td>
-    <td>Opportunity/Demand</td>
-    <td>Guiding principle</td>
-    <td>Practice</td>
-    <td>Continual improvement</td>
-    <td>Value stream</td>
-    <td>Value creation</td>
-    <td>Revenue generation</td>
-  </tr>
-</table>
+Choose from:
+
+| Service value chain | Governance | Opportunity/Demand | Guiding principle | Practice | Continual improvement | Value stream | Value creation | Revenue generation |
 
 #### &#10067; is the means by which the organisation is directed and controlled.
 <details>
