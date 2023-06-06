@@ -1,17 +1,8 @@
 ### ITIL Practices in Detail
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Incident management</td>
-    <td>Service request management</td>
-    <td>Continual improvement</td>
-    <td>Problem management</td>
-    <td>Change enablement</td>
-    <td>Service desk</td>
-    <td>Service level management</td>
-  </tr>
-</table>
+Choose from:
+
+| Incident management | Service request management | Continual improvement | Problem management | Change enablement | ervice desk | Service level management |
 
 #### &#10067; = To reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents, and managing workarounds and known errors.
 <details>
