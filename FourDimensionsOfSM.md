@@ -1,14 +1,8 @@
 ### Four Dimensions of Service Management (SM)
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Value streams and processes</td>
-    <td>Organisations and people</td>
-    <td>Information and technology</td>
-    <td>Partners and suppliers</td>
-  </tr>
-</table>
+Choose from:
+      
+| Value streams and processes | Organisations and people | Information and technology | artners and suppliers |
 
 #### Systems of authority and communication = &#10067;
 <details>
