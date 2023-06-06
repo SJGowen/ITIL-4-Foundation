@@ -2,7 +2,7 @@
 
 Choose from:
       
-| Value streams and processes | Organisations and people | Information and technology | artners and suppliers |
+| Value streams and processes | Organisations and people | Information and technology | Partners and suppliers |
 
 #### Systems of authority and communication = &#10067;
 <details>
