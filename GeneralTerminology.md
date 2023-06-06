@@ -1,20 +1,8 @@
 ### General Terminology
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Product</td>
-    <td>Division</td>
-    <td>Outcome</td>
-    <td>Warranty</td>
-    <td>Customer</td>
-    <td>Service</td>
-    <td>Utility</td>
-    <td>Risk</td>
-    <td>Service Management</td>
-    <td>Value</td>
-  </tr>
-</table>
+Choose from:
+
+| Product | Division | Outcome | Warranty | Customer | Service | Utility | Risk | Service Management | Value |
 
 #### A &#10067; is a means enabling value co-creation by facilitating outcomes that customers want to achieve, without the customer having to manage specific costs and risks.
 <details>
