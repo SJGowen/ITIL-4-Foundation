@@ -1,18 +1,8 @@
 ### Other ITIL Practices
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Deployment management</td>
-    <td>Release management</td>
-    <td>Monitoring and event management</td>
-    <td>Information security management</td>
-    <td>Relationship management</td>
-    <td>IT asset management</td>
-    <td>Supplier management</td>
-    <td>Service configuration management</td>
-  <tr>
-</table>
+Choose from:
+
+| Deployment management | Release management | Monitoring and event management | Information security management | Relationship management | IT asset management | Supplier management | Service configuration management |
 
 #### &#10067; = To support the provision of seamless quality products and services.
 <details>
