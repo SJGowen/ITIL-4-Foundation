@@ -1,17 +1,8 @@
 ### Guiding Principles
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Focus on value</td>
-    <td>Start where you are</td>
-    <td>Progress iteratively with feedback</td>
-    <td>Collaborate and promote visibility</td>
-    <td>Think and work holistically</td>
-    <td>Keep it simple and practical</td>
-    <td>Optimise and automate</td>
-  </tr>
-</table>
+Choose from:
+
+| Focus on value | Start where you are | Progress iteratively with feedback | Collaborate and promote visibility | Think and work holistically | Keep it simple and practical | Optimise and automate |
 
 #### 'Take time to map out the standard and repeating processes as far as possible, and streamline them where you can.' = &#10067;
 <details>
