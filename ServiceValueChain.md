@@ -1,16 +1,8 @@
 ### Service Value Chain
 
-<table>
-  <tr>
-    <th>Choose from:</th>
-    <td>Plan</td>
-    <td>Improve</td>
-    <td>Engage</td>
-    <td>Design and transition</td>
-    <td>Obtain/Build</td>
-    <td>Deliver and support</td>
-  </tr>
-</table>
+Choose from:
+
+| Plan | Improve | Engage | Design and transition | Obtain/Build | Deliver and support |
 
 #### &#10067; = Ensures that service components are available when and where they are needed, and meet agreed specifications.
 <details>
