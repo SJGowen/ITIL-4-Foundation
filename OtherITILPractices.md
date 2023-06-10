@@ -28,7 +28,7 @@ Choose from:
 </details>
 <br>
 
-#### &#10067; = Involved with capturing relationships between Cls.
+#### &#10067; = Involved with capturing relationships between configuration items (Cls).
 <details>
 <b>Service Configuration Management</b> = Involved with capturing relationships between Cls.
 </details>
