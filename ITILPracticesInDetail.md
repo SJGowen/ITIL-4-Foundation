@@ -31,7 +31,7 @@ Choose from:
 #### &#10067; = To set clear business-based targets for service levels, and to ensure that delivery of services can be properly assessed, monitored and managed against these targets.
 <details>
 <b>Service Level Management</b> = To set clear business-based targets for service levels, and to ensure that delivery of services can be properly assessed, monitored and managed against these targets.
-</details></b>
+</details>
 <br>
 
 #### &#10067; = This practice would act as the entry point and single point of contact for the service provider with all of its users.
