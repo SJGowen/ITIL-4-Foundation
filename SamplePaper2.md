@@ -323,7 +323,7 @@ Answer D is wrong since SM staff and technical staff can both be involved in ana
 - B. Start where you are
 - C. Collaborate and promote visibility
 - D. Progress iteratively with feedback
-<details>Answer B is correct: the guiding principle, "start where you are' advises that 'having a proper understanding of the current state of services and methods is important to selecting which elements to reuse, alter, or build upon.</details>
+<details>Answer B is correct: the guiding principle, "start where you are advises that having a proper understanding of the current state of services and methods is important to selecting which elements to reuse, alter, or build upon.</details>
 <br>
 
 [Back](README.md)
