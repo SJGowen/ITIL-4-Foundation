@@ -171,7 +171,7 @@ Answer D is wrong since SM staff and technical staff can both be involved in ana
 - B. Service desk
 - C. IT asset management
 - D. Monitoring and event management
-<details>Answer A is correct: The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the Cls that support them, is available when and where it is neede- D. This includes information on how Cls are configured and the relationships between them.</details>
+<details>Answer A is correct: The purpose of the service configuration management practice is to ensure that accurate and reliable information about the configuration of services, and the Cls that support them, is available when and where it is needed. This includes information on how Cls are configured and the relationships between them.</details>
 <br>
 
 #### 22) Which practice has a purpose that includes restoring normal service operation as quickly as possible?
