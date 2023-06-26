@@ -152,10 +152,10 @@ Answer D is wrong since SM staff and technical staff can both be involved in ana
 
 #### 19) What does the 'service request management' practice depend on for maximum efficiency?
 - A. Compliments and complaints
-- B. Self-service tools</details>
+- B. Self-service tools
 - C. Processes and procedures
 - D. Incident management
-<details>Answer C is correct: service request management is dependent upon well-designed processes and procedures, which are operationalised through tracking and automation tools to maximise the efficiency of the practice.</details></details>
+<details>Answer C is correct: service request management is dependent upon well-designed processes and procedures, which are operationalised through tracking and automation tools to maximise the efficiency of the practice.</details>
 <br>
 
 #### 20) Which statement about the 'service desk' practice is CORRECT?
