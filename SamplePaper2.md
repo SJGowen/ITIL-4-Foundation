@@ -195,7 +195,7 @@ Answer D is wrong since SM staff and technical staff can both be involved in ana
 - B. Start where you are
 - C. Focus on value
 - D. Progress iteratively with feedback
-<details>Answer D is correct: 'progress iteratively with feedback' recommends comprehending 'the whole, but do something: sometimes the greatest enemy to progressing iteratively is the desire to understand and account for everything.</details>
+<details>Answer D is correct: 'progress iteratively with feedback' recommends comprehending 'the whole', but do something: sometimes the greatest enemy to progressing iteratively is the desire to understand and account for everything.</details>
 <br>
 
 #### 25) What should be done for every problem?
