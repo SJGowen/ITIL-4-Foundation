@@ -58,7 +58,6 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 - [Other ITIL Practices](OtherITILPractices.md)
 
 ### Questions
-- [Practice Questions](PracticeQuestions.md)
 - [Sample Paper 1](SamplePaper1.md)
 - [Sample Paper 2](SamplePaper2.md)
 
