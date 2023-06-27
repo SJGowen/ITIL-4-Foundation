@@ -2,7 +2,7 @@
 
 ### Service Management: Key Concepts
 
-#### Q1. What should be the main objective of an organization?
+#### Q1. What should be the main objective of an organisation?
 - a) Reduce costs
 - b) Create value
 - c) Reduce risks
@@ -34,8 +34,8 @@
 <br>
 
 #### Q4. Which of the following statements is true?
-- i Understanding the complexity of service relationships and each party’s responsibilities, organizations are more likely to co-create value and make the relationships mutually beneficial.
-- ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
+- i Understanding the complexity of service relationships and each party’s responsibilities, organisations are more likely to co-create value and make the relationships mutually beneficial.
+- ii Understanding the components of value, organisations can make informed decisions about the services they provide and consume and about the service relationships.
 - iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
 <br>
 
@@ -70,7 +70,7 @@
 <details>Answer: d</details>
 <br>
 
-#### Q8. A person who authorizes budget for service consumption is known as a:
+#### Q8. A person who authorises budget for service consumption is known as a:
 - a) Customer
 - b) Sponsor
 - c) Stakeholder
@@ -107,7 +107,7 @@
 <details>Answer: d</details>
 <br>
 
-#### Q12. “Activities performed by an organization to provide services” is known as a:
+#### Q12. “Activities performed by an organisation to provide services” is known as a:
 - a) Customer solution
 - b) Service design
 - c) Service provision
@@ -128,13 +128,13 @@
 #### Q2. Which of the following guiding principles is referred to find the balance between understanding the big picture and still making progress is an application?
 - a) Start where you are
 - b) Progress iteratively
-- c) Optimize and automate
+- c) Optimise and automate
 - d) Keep it simple and practical
 <details>Answer: b</details>
 <br>
 
 #### Q3. Which of the following guiding principles denotes the use of Kanban or Scrum Boards by developers?
-- a) Optimize and automate
+- a) Optimise and automate
 - b) Work holistically
 - c) Keep it practical
 - d) Collaborate and promote visibility
@@ -143,8 +143,8 @@
 
 #### Q4. Which of the following statements reflects the best use of the ITIL guiding principles?
 - i The guiding principles can be used to guide in the adoption of a service management approach.
-- ii The guiding principles can be used to help organizations adapt the ITIL guidance to specific needs.
-- iii The guiding principles must be used to introduce new technology to an organization.
+- ii The guiding principles can be used to help organisations adapt the ITIL guidance to specific needs.
+- iii The guiding principles must be used to introduce new technology to an organisation.
 <br>
 
 - a) iii only
@@ -165,7 +165,7 @@
 #### Q6. Which guiding principle reflects the following idea: ‘The current state should be investigated and observed directly to make sure it is fully understood’?
 - a) Keep it simple and practical
 - b) Progress iteratively with feedback
-- c) Optimize and automate
+- c) Optimise and automate
 - d) Start where you are
 <details>Answer: d</details>
 <br>
@@ -173,7 +173,7 @@
 #### Q7. Which guiding principle is an example of ‘no service or element used to provide a service stands alone’?
 - a) Keep it simple and practical
 - b) Think and work holistically
-- c) Optimize and automate
+- c) Optimise and automate
 - d) Focus on value
 <details>Answer: b</details>
 <br>
@@ -181,7 +181,7 @@
 #### Q8. Which guiding principle reflects the following idea: ‘Resources of all types, particularly human resources, should be used to their best effect”?
 - a) Keep it simple and practical
 - b) Think and work holistically
-- c) Optimize and automate
+- c) Optimise and automate
 - d) Focus on value
 <details>Answer: c</details>
 <br>
@@ -189,7 +189,7 @@
 #### Q9. Which guiding principle reflects the following idea: ‘Always use outcome-based thinking to produce practical solutions that deliver results’?
 - a) Keep it simple and practical
 - b) Start where you are
-- c) Optimize and automate
+- c) Optimise and automate
 - d) Collaborate and promote visibility
 <details>Answer: a</details>
 <br>
@@ -222,14 +222,14 @@
 
 #### Q1. Which of the following options correctly specifies the four dimensions of Service Management?
 - a) People, Social aspects, Processes, Economics
-- b) Information, Organization, Values Streams, Processes
-- c) Organizations, Information, Partners, Processes
+- b) Information, Organisation, Values Streams, Processes
+- c) Organisations, Information, Partners, Processes
 - d) Suppliers, People, Automation, Value
 <details>Answer: c</details>
 <br>
 
 #### Q2. In the context of a specific IT service, which dimension includes the information created and the technologies that support and enable that service?
-- a) Organizations and people
+- a) Organisations and people
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
@@ -245,15 +245,15 @@
 <br>
 
 #### Q4. Which of the four dimensions of service management defines the activities, workflows, controls, and procedures needed to achieve agreed objectives?
-- a) Organizations and people
+- a) Organisations and people
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
 <details>Answer: d</details>
 <br>
 
-#### Q5. An organization has been structured in a very traditional hierarchical structure and now has the challenge of “silo thinking” and finger pointing, when an issue arises. Which dimension should they specifically be working on to resolve this issue?
-- a) Organizations and people
+#### Q5. An organisation has been structured in a very traditional hierarchical structure and now has the challenge of “silo thinking” and finger pointing, when an issue arises. Which dimension should they specifically be working on to resolve this issue?
+- a) Organisations and people
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
@@ -261,14 +261,14 @@
 <br>
 
 #### Q6. Which of the following dimensions is a key to making a decision to focus on your own core competencies and to outsource non-core supporting functions to third parties?
-- a) Organizations and people
+- a) Organisations and people
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
 <details>Answer: c</details>
 <br>
 
-#### Q7. The optimize and automate principle involves finding the right path to optimization. This path involves ensuring that the optimization has the appropriate level of stakeholder engagement.
+#### Q7. The optimise and automate principle involves finding the right path to optimisation. This path involves ensuring that the optimisation has the appropriate level of stakeholder engagement.
 - a) Assignment of budget
 - b) Resource allocation
 - c) Execution duration
@@ -302,7 +302,7 @@
 <details>Answer: a</details>
 <br>
 
-#### Q4. Which of the following ITIL 4 components is the key purpose of providing a high-level holistic model to assist an organization in directing its service relationships?
+#### Q4. Which of the following ITIL 4 components is the key purpose of providing a high-level holistic model to assist an organisation in directing its service relationships?
 - a) An ITIL practice
 - b) ITIL Service Value System
 - c) ITIL Service Value Chain
@@ -310,7 +310,7 @@
 <details>Answer: b</details>
 <br>
 
-#### Q5. “Sets of organizational resources designed for performing work or accomplishing an objective “ are known as what in the service value system?
+#### Q5. “Sets of organisational resources designed for performing work or accomplishing an objective “ are known as what in the service value system?
 - a) Processes
 - b) Dimensions
 - c) Practices
@@ -360,7 +360,7 @@
 
 ### The ITIL Practices
 
-#### Q1. Which management practice supports the identification and improvement of services and developing techniques of an improvement culture across the organization?
+#### Q1. Which management practice supports the identification and improvement of services and developing techniques of an improvement culture across the organisation?
 - a) Knowledge management
 - b) Monitoring and event management
 - c) Continual improvement
@@ -368,7 +368,7 @@
 <details>Answer: c</details>
 <br>
 
-#### Q2. Which management practice protects the information needed by the organization to conduct its business?
+#### Q2. Which management practice protects the information needed by the organisation to conduct its business?
 - a) Relationship management
 - b) IT asset management
 - c) Information security management
@@ -377,9 +377,9 @@
 <br>
 
 #### Q3. Which of the following statements denotes the purpose of supplier management?
-- a) Ensuring that the organization’s suppliers and their performance are managed appropriately to support the provision of seamless, quality products and services.
+- a) Ensuring that the organisation's suppliers and their performance are managed appropriately to support the provision of seamless, quality products and services.
 - b) Ensuring that the partners and suppliers align with the ongoing identification, improvement, and changes of services.
-- c) Ensuring that the organization’s suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling and delivery activities.
+- c) Ensuring that the organisation's suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling and delivery activities.
 - d) Ensuring that the accurate and reliable information about the configuration of supplier’s services is available when and where it is needed.
 <details>Answer: a</details>
 <br>
@@ -403,7 +403,7 @@
 #### Q6. Which of the following options denotes the purpose of problem management?
 - a) Ensure that services deliver agreed levels of availability to meet the needs of customers and users
 - b) Set clear business-based targets for service performance
-- c) Maximize the number of successful IT changes by ensuring that risks have been properly assessed
+- c) Maximise the number of successful IT changes by ensuring that risks have been properly assessed
 - d) Reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents
 <details>Answer: d</details>
 <br>
@@ -467,12 +467,12 @@
 #### Q14. What is the correct purpose of the relationship management practice?
 - a) Suppliers and their performance are managed to support the provision of services
 - b) Observe services and record and report changes of state identified as events
-- c) Establish and nurture links between the organization and its stakeholders
+- c) Establish and nurture links between the organisation and its stakeholders
 - d) Set clear business-based targets for service performance, so that delivery can be assessed, monitored and managed against these targets
 <details>Answer: c</details>
 <br>
 
-#### Q15. Who holds the responsibility of continual improvement in an organization?
+#### Q15. Who holds the responsibility of continual improvement in an organisation?
 - a) Dedicated full-time team
 - b) Everyone
 - c) Employees
@@ -488,7 +488,7 @@
 <details>Answer: d</details>
 <br>
 
-#### Q17. To plan and manage IT assets, to maximize value, control costs, manage risks, and meet regulatory requirements are a key purpose of which practice?
+#### Q17. To plan and manage IT assets, to maximise value, control costs, manage risks, and meet regulatory requirements are a key purpose of which practice?
 - a) Supplier management
 - b) IT asset management
 - c) Change enablement
@@ -552,7 +552,7 @@
 <details>Answer: a</details>
 <br>
 
-#### Q25. Select an option to fill in the blank. The service level management provides the _________ visibility of the organization’s services.
+#### Q25. Select an option to fill in the blank. The service level management provides the _________ visibility of the organisation's services.
 - a) Customer’s
 - b) User’s
 - c) Consumer’s
@@ -560,7 +560,7 @@
 <details>Answer: d</details>
 <br>
 
-#### Q26. Service level management includes collating and analyzing information from a number of sources. These sources include:
+#### Q26. Service level management includes collating and analysing information from a number of sources. These sources include:
 - i Customer engagement
 - ii Customer feedback
 - iii Operational metrics
@@ -574,7 +574,7 @@
 <details>Answer: d</details>
 <br>
 
-#### Q27. What should act as the entry point/single point of contact for the IT or service organization?
+#### Q27. What should act as the entry point/single point of contact for the IT or service organisation?
 - a) Service owner
 - b) Service desk
 - c) Relationship management
@@ -590,7 +590,7 @@
 <details>Answer: c</details>
 <br>
 
-#### Q29. Fulfillment of service requests may include changes to services or their components; what are these usually managed as?
+#### Q29. Fulfilment of service requests may include changes to services or their components; what are these usually managed as?
 - a) Service request
 - b) Normal changes
 - c) Incidents
@@ -599,7 +599,7 @@
 <br>
 
 #### Q30. Which of the following statements about continual improvement register (CIR) is correct?
-- i The CIR is used as the basis for re-prioritizing improvement ideas, as and when new ideas are documented.
+- i The CIR is used as the basis for re-prioritising improvement ideas, as and when new ideas are documented.
 - ii The structure of the information captured in a CIR is an important consideration.
 <br>
 
@@ -637,10 +637,10 @@
 <details>Answer: a</details>
 <br>
 
-#### Q34. In ITIL 4, who should authorize a change to ensure efficiency and effectiveness?
-- a) All changes should be authorized by a single change authority.
+#### Q34. In ITIL 4, who should authorise a change to ensure efficiency and effectiveness?
+- a) All changes should be authorised by a single change authority.
 - b) Change authorities should be established for different type of changes.
-- c) Anyone in the organization
+- c) Anyone in the organisation
 - d) The Change Enablement Manager
 <details>Answer: b</details>
 <br>
@@ -663,7 +663,7 @@
 
 #### Q37. Which of the following options is important to consider when selecting a tool to manage incidents?
 - a) Incidents should be able to auto resolve.
-- b) The tool should be available to all users in the organization.
+- b) The tool should be available to all users in the organisation.
 - c) The tool should exclusively be used by the Service Desk to ensure accuracy.
 - d) The tool should provide links to related configuration items, changes, problems, known errors, and other knowledge.
 <details>Answer: d</details>
@@ -714,7 +714,7 @@
 <br>
 
 #### Q42. Which of the following statements regarding service requests is true?
-- i A limited number of additional authorizations for requests are preferred.
+- i A limited number of additional authorisations for requests are preferred.
 - ii Automation of requests should be encouraged to improve efficiencies.
 - iii Workflows for service requests should be established and documented.
 - iv Fulfilment times for every request should be determined upfront and communicated to users.
@@ -731,7 +731,7 @@
 - a) Most service requests are simple and do not require involvement from other teams.
 - b) It should not be encouraged to completely automate the submission of service request.
 - c) It is difficult to set expectations of users regarding fulfilment times.
-- d) Service requests can usually be formalized with a clear and standard procedure.
+- d) Service requests can usually be formalised with a clear and standard procedure.
 <details>Answer: d</details>
 <br>
 
