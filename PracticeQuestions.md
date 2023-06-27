@@ -7,6 +7,7 @@
 - b) Create value
 - c) Reduce risks
 - d) Increase sales
+<details>Answer: b</details>
 <br>
 
 #### Q2. A service relationship is based on several activities, including:
@@ -21,6 +22,7 @@
 - b) i, ii, and iv
 - c) i, ii, iv and v
 - d) All of the given
+<details>Answer: b</details>
 <br>
 
 #### Q3. Which of the following options is an example of utility?
@@ -28,6 +30,7 @@
 - b) Ability to print an invoice at the click of a button
 - c) Access the Invoice Service from a mobile phone 24/7
 - d) Service restoring itself in the background whilst the customer continues working
+<details>Answer: b</details>
 <br>
 
 #### Q4. Which of the following statements is true?
@@ -40,6 +43,7 @@
 - b) i and iii only
 - c) ii and iii only
 - d) All of the given
+<details>Answer: d</details>
 <br>
 
 #### Q5. Value for the service consumer:
@@ -47,6 +51,7 @@
 - b) Changes in different situations
 - c) Supports intended outcomes
 - d) All of the above
+<details>Answer: d</details>
 <br>
 
 #### Q6. Which of the following options is the best description of a warranty?
@@ -54,6 +59,7 @@
 - b) Fit for use
 - c) Fit for support
 - d) Fit for delivery
+<details>Answer: b</details>
 <br>
 
 #### Q7. Which of the following options referred to as the functionality offered by a product or service to meet a particular need?
@@ -61,6 +67,7 @@
 - b) Delivery
 - c) Service
 - d) Utility
+<details>Answer: d</details>
 <br>
 
 #### Q8. A person who authorizes budget for service consumption is known as a:
@@ -68,6 +75,7 @@
 - b) Sponsor
 - c) Stakeholder
 - d) User
+<details>Answer: b</details>
 <br>
 
 #### Q9. Which of the following activities is included in ‘service consumption’?
@@ -80,6 +88,7 @@
 - b) i and iii only
 - c) i and ii only
 - d) All of the given
+<details>Answer: d</details>
 <br>
 
 #### Q10. Select an option to fill the blank. A description of one or more services, designed to address the needs of a target consumer group. A ________ may include goods, access to resources, and service actions.
@@ -87,6 +96,7 @@
 - b) Service offering
 - c) Service design
 - d) Service principle
+<details>Answer: b</details>
 <br>
 
 #### Q11. A possible event that could cause harm or loss is a definition of:
@@ -94,6 +104,7 @@
 - b) Problem
 - c) Negative cost association
 - d) Risk
+<details>Answer: d</details>
 <br>
 
 #### Q12. “Activities performed by an organization to provide services” is known as a:
@@ -101,6 +112,7 @@
 - b) Service design
 - c) Service provision
 - d) User experience
+<details>Answer: c</details>
 <br>
 
 #### The Guiding Principles
@@ -110,6 +122,7 @@
 - b) An action or metric that provides visibility
 - c) A guiding principle
 - d) A dimension of Service Management
+<details>Answer: c</details>
 <br>
 
 #### Q2. Which of the following guiding principles is referred to find the balance between understanding the big picture and still making progress is an application?
@@ -117,6 +130,7 @@
 - b) Progress iteratively
 - c) Optimize and automate
 - d) Keep it simple and practical
+<details>Answer: b</details>
 <br>
 
 #### Q3. Which of the following guiding principles denotes the use of Kanban or Scrum Boards by developers?
@@ -124,6 +138,7 @@
 - b) Work holistically
 - c) Keep it practical
 - d) Collaborate and promote visibility
+<details>Answer: d</details>
 <br>
 
 #### Q4. Which of the following statements reflects the best use of the ITIL guiding principles?
@@ -136,6 +151,7 @@
 - b) i and iii only
 - c) i and ii only
 - d) All of the given
+<details>Answer: c</details>
 <br>
 
 #### Q5. Which of the following statements is correct about the guiding principles?
@@ -143,6 +159,7 @@
 - b) They cannot be implemented in combination with each other.
 - c) They are reflected in many other frameworks.
 - d) They are taken from an external body of knowledge.
+<details>Answer: c</details>
 <br>
 
 #### Q6. Which guiding principle reflects the following idea: ‘The current state should be investigated and observed directly to make sure it is fully understood’?
@@ -150,6 +167,7 @@
 - b) Progress iteratively with feedback
 - c) Optimize and automate
 - d) Start where you are
+<details>Answer: d</details>
 <br>
 
 #### Q7. Which guiding principle is an example of ‘no service or element used to provide a service stands alone’?
@@ -157,6 +175,7 @@
 - b) Think and work holistically
 - c) Optimize and automate
 - d) Focus on value
+<details>Answer: b</details>
 <br>
 
 #### Q8. Which guiding principle reflects the following idea: ‘Resources of all types, particularly human resources, should be used to their best effect”?
@@ -164,6 +183,7 @@
 - b) Think and work holistically
 - c) Optimize and automate
 - d) Focus on value
+<details>Answer: c</details>
 <br>
 
 #### Q9. Which guiding principle reflects the following idea: ‘Always use outcome-based thinking to produce practical solutions that deliver results’?
@@ -171,6 +191,7 @@
 - b) Start where you are
 - c) Optimize and automate
 - d) Collaborate and promote visibility
+<details>Answer: a</details>
 <br>
 
 #### Q10. Which guiding principle denotes ‘Knowing how service consumers use each service is important’?
@@ -178,6 +199,7 @@
 - b) Start where you are
 - c) Focus on Value
 - d) Think and work holistically
+<details>Answer: c</details>
 <br>
 
 #### Q11. Select an option to fill in the blank. _________ is an important aspect of the ‘start where you are’ principle.
@@ -185,6 +207,7 @@
 - b) Value
 - c) Cost
 - d) Engagement
+<details>Answer: a</details>
 <br>
 
 #### Q12. Select an option to fill in the blank. Making use of appropriate feedback is a key to _________ and focusing on what will be valuable to the customer making it easier to keep things simple and practical.
@@ -192,6 +215,7 @@
 - b) Holistic thinking
 - c) Collaboration
 - d) Relationships
+<details>Answer: c</details>
 <br>
 
 #### The Four Dimensions of Service Management
@@ -201,6 +225,7 @@
 - b) Information, Organization, Values Streams, Processes
 - c) Organizations, Information, Partners, Processes
 - d) Suppliers, People, Automation, Value
+<details>Answer: c</details>
 <br>
 
 #### Q2. In the context of a specific IT service, which dimension includes the information created and the technologies that support and enable that service?
@@ -208,6 +233,7 @@
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
+<details>Answer: b</details>
 <br>
 
 #### Q3. In which of the following options do the four dimensions of service management apply to?
@@ -215,6 +241,7 @@
 - b) The service value system only
 - c) Consumers and users only
 - d) All services and the service value system
+<details>Answer: d</details>
 <br>
 
 #### Q4. Which of the four dimensions of service management defines the activities, workflows, controls, and procedures needed to achieve agreed objectives?
@@ -222,6 +249,7 @@
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
+<details>Answer: d</details>
 <br>
 
 #### Q5. An organization has been structured in a very traditional hierarchical structure and now has the challenge of “silo thinking” and finger pointing, when an issue arises. Which dimension should they specifically be working on to resolve this issue?
@@ -229,6 +257,7 @@
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
+<details>Answer: a</details>
 <br>
 
 #### Q6. Which of the following dimensions is a key to making a decision to focus on your own core competencies and to outsource non-core supporting functions to third parties?
@@ -236,6 +265,7 @@
 - b) Information and technology
 - c) Partners and suppliers
 - d) Value streams and processes
+<details>Answer: c</details>
 <br>
 
 #### Q7. The optimize and automate principle involves finding the right path to optimization. This path involves ensuring that the optimization has the appropriate level of stakeholder engagement.
@@ -243,6 +273,7 @@
 - b) Resource allocation
 - c) Execution duration
 - d) Stakeholder engagement
+<details>Answer: d</details>
 <br>
 
 ####: The ITIL Service Value System
@@ -252,6 +283,7 @@
 - b) Value
 - c) Practices
 - d) Opportunity
+<details>Answer: d</details>
 <br>
 
 #### Q2. What is the outcome of the ITIL service value system?
@@ -259,6 +291,7 @@
 - b) Value
 - c) Practices
 - d) Opportunity
+<details>Answer: b</details>
 <br>
 
 #### Q3. Select an option to fill in the blank. The ITIL service value system has been specifically architected to enable ______ and discourage ______ working.
@@ -266,6 +299,7 @@
 - b) Processes / procedural
 - c) Practices / rapid
 - d) Opportunity / siloed
+<details>Answer: a</details>
 <br>
 
 #### Q4. Which of the following ITIL 4 components is the key purpose of providing a high-level holistic model to assist an organization in directing its service relationships?
@@ -273,6 +307,7 @@
 - b) ITIL Service Value System
 - c) ITIL Service Value Chain
 - d) The Continual Improvement Model
+<details>Answer: b</details>
 <br>
 
 #### Q5. “Sets of organizational resources designed for performing work or accomplishing an objective “ are known as what in the service value system?
@@ -280,6 +315,7 @@
 - b) Dimensions
 - c) Practices
 - d) Values
+<details>Answer: c</details>
 <br>
 
 #### Q6. Using knowledge to understand the situation and provide context for plans is an example of which value chain activity?
@@ -287,6 +323,7 @@
 - b) Plan
 - c) Improve
 - d) Design
+<details>Answer: d</details>
 <br>
 
 #### Q7. Select an option to fill in the blank. In the ITIL service value chain, each activity contributes to the value chain by transforming specific ________ into _________.
@@ -294,6 +331,7 @@
 - b) Processes/practices
 - c) Inputs/outputs
 - d) Opportunities/improvements
+<details>Answer: c</details>
 <br>
 
 #### Q8. Ensuring a shared understanding of the vision, current status and improvement direction, is an objective of which value chain activity?
@@ -301,6 +339,7 @@
 - b) Plan
 - c) Improve
 - d) Design
+<details>Answer: b</details>
 <br>
 
 #### Q9. Providing a good understanding of stakeholder needs, transparency, and good relationships, is an objective of which value chain activity?
@@ -308,6 +347,7 @@
 - b) Design and transition
 - c) Obtain/build
 - d) Improve
+<details>Answer: a</details>
 <br>
 
 #### Q10. Ensuring the availability of the service components, in consideration to agreed specification, is the purpose of which value chain activity?
@@ -315,6 +355,7 @@
 - b) Engage
 - c) Design and transition
 - d) Obtain/build
+<details>Answer: d</details>
 <br>
 
 #### The ITIL Practices
@@ -324,6 +365,7 @@
 - b) Monitoring and event management
 - c) Continual improvement
 - d) Relationship management
+<details>Answer: c</details>
 <br>
 
 #### Q2. Which management practice protects the information needed by the organization to conduct its business?
@@ -331,6 +373,7 @@
 - b) IT asset management
 - c) Information security management
 - d) Supplier management
+<details>Answer: c</details>
 <br>
 
 #### Q3. Which of the following statements denotes the purpose of supplier management?
@@ -338,6 +381,7 @@
 - b) Ensuring that the partners and suppliers align with the ongoing identification, improvement, and changes of services.
 - c) Ensuring that the organization’s suppliers and their performance are managed appropriately at strategic and tactical levels through coordinated marketing, selling and delivery activities.
 - d) Ensuring that the accurate and reliable information about the configuration of supplier’s services is available when and where it is needed.
+<details>Answer: a</details>
 <br>
 
 #### Q4. Which practice establishes a shared view of the services and target service levels with customers?
@@ -345,6 +389,7 @@
 - b) Service level management
 - c) Service request management
 - d) Supplier management
+<details>Answer: b</details>
 <br>
 
 #### Q5. Which management practice systematically observes services and service components, and records and reports selected changes of state?
@@ -352,6 +397,7 @@
 - b) Monitoring and event management
 - c) Problem management
 - d) Availability management
+<details>Answer: b</details>
 <br>
 
 #### Q6. Which of the following options denotes the purpose of problem management?
@@ -359,6 +405,7 @@
 - b) Set clear business-based targets for service performance
 - c) Maximize the number of successful IT changes by ensuring that risks have been properly assessed
 - d) Reduce the likelihood and impact of incidents by identifying actual and potential causes of incidents
+<details>Answer: d</details>
 <br>
 
 #### Q7. Fill in the blank. The purpose of the service request management practice is to support the agreed quality of a service by handling all predefined, user initiated.............. in an effective and user-friendly manner.
@@ -366,6 +413,7 @@
 - b) Changes
 - c) Service requests
 - d) Problems
+<details>Answer: c</details>
 <br>
 
 #### Q8. Which of the following options denotes the purpose of service configuration management?
@@ -373,6 +421,7 @@
 - b) Ensure that accurate and reliable information about the configuration of services, and the configuration items that support them, is available when and where it is needed
 - c) Plan and manage the full lifecycle of all IT assets
 - d) Ensure that services deliver agreed levels of availability to meet the needs of customers and users
+<details>Answer: b</details>
 <br>
 
 #### Q9. What is defined as: ‘Any component that needs to be managed in order to deliver an IT service’?
@@ -380,6 +429,7 @@
 - b) A change request
 - c) A configuration item
 - d) An event
+<details>Answer: c</details>
 <br>
 
 #### Q10. What is defined as: ‘Any valuable component that can contribute to the delivery of an IT product or service’?
@@ -387,6 +437,7 @@
 - b) A configuration item
 - c) An IT asset
 - d) An event
+<details>Answer: c</details>
 <br>
 
 #### Q11. Which of the following options correctly defines an incident?
@@ -394,6 +445,7 @@
 - b) A cause, or potential cause, of one or more incidents
 - c) The addition, modification, or removal of anything that could have a direct or indirect effect on services
 - d) The ability of an IT service or other configuration item to perform its agreed function when required
+<details>Answer: a</details>
 <br>
 
 #### Q12. Which of the following options correctly defines a known error?
@@ -401,6 +453,7 @@
 - b) A problem that has been analysed and has not been resolved
 - c) An unplanned interruption to a service, or reduction in the quality of a service
 - d) Any valuable component that can contribute to the delivery of an IT product or service
+<details>Answer: b</details>
 <br>
 
 #### Q13. Which practice deals with provisioning of infrastructure?
@@ -408,6 +461,7 @@
 - b) IT asset management
 - c) Monitoring and event management
 - d) Service configuration management
+<details>Answer: a</details>
 <br>
 
 #### Q14. What is the correct purpose of the relationship management practice?
@@ -415,6 +469,7 @@
 - b) Observe services and record and report changes of state identified as events
 - c) Establish and nurture links between the organization and its stakeholders
 - d) Set clear business-based targets for service performance, so that delivery can be assessed, monitored and managed against these targets
+<details>Answer: c</details>
 <br>
 
 #### Q15. Who holds the responsibility of continual improvement in an organization?
@@ -422,6 +477,7 @@
 - b) Everyone
 - c) Employees
 - d) Leaders
+<details>Answer: b</details>
 <br>
 
 #### Q16. Which practice represents a point of communication for the service provider with all its users?
@@ -429,6 +485,7 @@
 - b) Relation management
 - c) Deployment management
 - d) Service desk
+<details>Answer: d</details>
 <br>
 
 #### Q17. To plan and manage IT assets, to maximize value, control costs, manage risks, and meet regulatory requirements are a key purpose of which practice?
@@ -436,6 +493,7 @@
 - b) IT asset management
 - c) Change enablement
 - d) Incident management
+<details>Answer: b</details>
 <br>
 
 #### Q18. Making new and changed services and features available for use is a key purpose of which practice?
@@ -443,6 +501,7 @@
 - b) Service level management
 - c) Release management
 - d) Change enablement
+<details>Answer: c</details>
 <br>
 
 #### Q19. Which of the following options is the best example of a workaround?
@@ -450,6 +509,7 @@
 - b) Politely requesting the customer to give you some time to troubleshoot
 - c) Inform the customer that they can work again as the problem has been resolved
 - d) Provide an alternative way of connecting to the Internet whilst the main connection is being fixed
+<details>Answer: d</details>
 <br>
 
 #### Q20. A change that has low risk and is well-understood and documented is known as:
@@ -457,6 +517,7 @@
 - b) Normal change
 - c) Standard change
 - d) Minor change
+<details>Answer: c</details>
 <br>
 
 #### Q21. Select an option to fill in the blank. “A service level agreement is a documented agreement between a service provider and a customer that identifies both services required and the expected ________ of service”
@@ -464,6 +525,7 @@
 - b) Frequency
 - c) Level
 - d) Quality
+<details>Answer: c</details>
 <br>
 
 #### Q22. What are the three phases of problem management?
@@ -471,6 +533,7 @@
 - b) Root cause analysis, problem identification and problem control
 - c) Problem control, error control and continual improvement
 - d) Problem identification, problem control and error control
+<details>Answer: d</details>
 <br>
 
 #### Q23. Select an option to fill in the blank. Problem control activities include problem analysis and documenting __________ and known errors.
@@ -478,6 +541,7 @@
 - b) Problems
 - c) Workarounds
 - d) Changes
+<details>Answer: c</details>
 <br>
 
 #### Q24. When might an effective incident workaround become a permanent way of dealing with some problems?
@@ -485,6 +549,7 @@
 - b) When resolving the incident will breach the service level agreement
 - c) When resolving the problem is controlled by a supplier
 - d) When resolving the incident requires a change in control
+<details>Answer: a</details>
 <br>
 
 #### Q25. Select an option to fill in the blank. The service level management provides the _________ visibility of the organization’s services.
@@ -492,6 +557,7 @@
 - b) User’s
 - c) Consumer’s
 - d) End to end
+<details>Answer: d</details>
 <br>
 
 #### Q26. Service level management includes collating and analyzing information from a number of sources. These sources include:
@@ -505,6 +571,7 @@
 - b) ii and iv only
 - c) i, iii, and iv only
 - d) All of the given
+<details>Answer: d</details>
 <br>
 
 #### Q27. What should act as the entry point/single point of contact for the IT or service organization?
@@ -512,6 +579,7 @@
 - b) Service desk
 - c) Relationship management
 - d) Knowledge management
+<details>Answer: b</details>
 <br>
 
 #### Q28. Select an option to fill in the blank. The service desk has a major influence on ____________.
@@ -519,6 +587,7 @@
 - b) Relationship management
 - c) User experience
 - d) Availability management
+<details>Answer: c</details>
 <br>
 
 #### Q29. Fulfillment of service requests may include changes to services or their components; what are these usually managed as?
@@ -526,16 +595,19 @@
 - b) Normal changes
 - c) Incidents
 - d) Standard changes
+<details>Answer: d</details>
 <br>
 
 #### Q30. Which of the following statements about continual improvement register (CIR) is correct?
 - i The CIR is used as the basis for re-prioritizing improvement ideas, as and when new ideas are documented.
 - ii The structure of the information captured in a CIR is an important consideration.
 <br>
+
 - a) Both i and ii are correct.
 - b) Only i is correct.
 - c) Only ii is correct.
 - d) Both i and ii are incorrect.
+<details>Answer: b</details>
 <br>
 
 #### Q31. Select and option to fill in the blank. A/An ____________ is a problem where initial analysis is complete; it usually means that faulty components have been identified.
@@ -543,6 +615,7 @@
 - b) Problem
 - c) Workaround
 - d) Known error
+<details>Answer: d</details>
 <br>
 
 #### Q32. Which of the following statements about service level agreements (SLAs) is correct?
@@ -553,6 +626,7 @@
 - b) Only i is correct.
 - c) Only ii is correct.
 - d) Both i and ii are incorrect.
+<details>Answer: c</details>
 <br>
 
 #### Q33. Select an option to fill in the blank. Continual improvement contributes _________ value chain activities.
@@ -560,6 +634,7 @@
 - b) To some
 - c) To only planning
 - d) Equally to deliver and support and engage
+<details>Answer: a</details>
 <br>
 
 #### Q34. In ITIL 4, who should authorize a change to ensure efficiency and effectiveness?
@@ -567,6 +642,7 @@
 - b) Change authorities should be established for different type of changes.
 - c) Anyone in the organization
 - d) The Change Enablement Manager
+<details>Answer: b</details>
 <br>
 
 #### Q35. Which of the following assists in communication and aids in avoiding conflicts and assignment resources?
@@ -574,6 +650,7 @@
 - b) Service level agreement
 - c) Change communication plan
 - d) Change schedule
+<details>Answer: d</details>
 <br>
 
 #### Q36. Which of the following is the best way of handling an incident?
@@ -581,6 +658,7 @@
 - b) The service desk has the authority and should allocate resources to incident handling
 - c) Incidents with the highest business impact and urgency should be handled first
 - d) Incidents logged by senior management should always get preferential treatment
+<details>Answer: c</details>
 <br>
 
 #### Q37. Which of the following options is important to consider when selecting a tool to manage incidents?
@@ -588,6 +666,7 @@
 - b) The tool should be available to all users in the organization.
 - c) The tool should exclusively be used by the Service Desk to ensure accuracy.
 - d) The tool should provide links to related configuration items, changes, problems, known errors, and other knowledge.
+<details>Answer: d</details>
 <br>
 
 #### Q38. Which of the following statements about incident management is true?
@@ -601,6 +680,7 @@
 - b) i, ii, and iii only
 - c) i, iii, and iv only
 - d) All of the given
+<details>Answer: c</details>
 <br>
 
 #### Q39. In ITIL 4, a _____ is defined as any change of state that has significance for the management of a Configuration Item (CI) or IT service.
@@ -608,6 +688,7 @@
 - b) Event
 - c) Incident
 - d) Release
+<details>Answer: b</details>
 <br>
 
 #### Q40. Which of the following statements is NOT true?
@@ -615,6 +696,7 @@
 - b) Target resolution times for each incident should be negotiated and communicated.
 - c) As the incidents move through its cycle, information about the incident should be recorded.
 - d) Users should be encouraged to resolve their own incidents through self-help.
+<details>Answer: a</details>
 <br>
 
 #### Q41. Which of the following are good examples of requests?
@@ -628,6 +710,7 @@
 - b) i and iv only
 - c) i, ii, and iv only
 - d) All of the given
+<details>Answer: c</details>
 <br>
 
 #### Q42. Which of the following statements regarding service requests is true?
@@ -641,6 +724,7 @@
 - b) ii, iii, and iv only
 - c) i, ii, and iii only
 - d) All of the given
+<details>Answer: d</details>
 <br>
 
 #### Q43. Which of the following is a correct recommendation of the service request practice?
@@ -648,6 +732,7 @@
 - b) It should not be encouraged to completely automate the submission of service request.
 - c) It is difficult to set expectations of users regarding fulfilment times.
 - d) Service requests can usually be formalized with a clear and standard procedure.
+<details>Answer: d</details>
 <br>
 
 #### Q44. Which of the following elements is a key to have as part of the service desk?
@@ -662,6 +747,7 @@
 - b) ii, iv, and v only
 - c) i, ii, iii, and iv only
 - d) All of the given
+<details>Answer: d</details>
 <br>
 
 #### Q45. Which of the following is a recommendation of the service desk practice?
@@ -669,6 +755,7 @@
 - b) Service desk has no role to play in service delivery.
 - c) Service desk is mainly about fixing issues and has nothing much explaining and coordinating matters.
 - d) Service desk supports people and business, rather than only providing support for technical issues.
+<details>Answer: d</details>
 <br>
 
 #### Q46. Problem management initiates resolution through ___________ and participates in the post implementation review.
@@ -676,6 +763,7 @@
 - b) Incident management
 - c) Knowledgement management
 - d) Risk management
+<details>Answer: a</details>
 <br>
 
 #### Q47. Which of the following is not an aspect of the service level management practice?
@@ -683,6 +771,7 @@
 - b) Service reviews
 - c) Major incident reviews
 - d) Reporting on major incidents
+<details>Answer: c</details>
 <br>
 
 #### Q48. Select an option to fill in the blank. The purpose of the __________ practice is to make new and changed services and features available for use.
@@ -690,6 +779,7 @@
 - b) Release management
 - c) Service level management
 - d) Service request management
+<details>Answer: b</details>
 <br>
 
 #### Q49. Which of the following statements about the service level management practice is correct?
@@ -697,6 +787,7 @@
 - b) Viewing targets from a single server is still an important measurement
 - c) It is good practice to only engage with customers once in a while
 - d) A good service level management practice is about constructive partnerships
+<details>Answer: d</details>
 <br>
 
 #### Q50. Select an option to fill in the blank. __________ change may require a separate change authority, which includes senior managers who understand business risk.
@@ -704,6 +795,7 @@
 - b) Normal
 - c) Standard
 - d) Major
+<details>Answer: a</details>
 <br>
 
 #### Q51. An important service improvement initiative is kicked off at the service desk. Which practice will it engage with for the initiative to be successful?
@@ -711,6 +803,7 @@
 - b) Service level management
 - c) Change enablement
 - d) Configuration management
+<details>Answer: a</details>
 <br>
 
 #### Q52. The technical teams have several ideas on how a particular problem should be fixed and find the most cost-effective solution. In ITIL 4 it is known as:
@@ -718,6 +811,7 @@
 - b) Problem control
 - c) Error control
 - d) Technical engagement
+<details>Answer: c</details>
 <br>
 
 #### Q53. Errors that remain unidentified, or unresolved, and may be a risk to live services is known as a/an:
@@ -725,6 +819,7 @@
 - b) Problem
 - c) Error
 - d) Issue
+<details>Answer: b</details>
 <br>
 
 #### Q54. Select an option to fill in the blank. According to ITIL 4, “Change” is defined as the addition, modification, or removal of anything that could have a direct or indirect effect on ______.
@@ -732,6 +827,7 @@
 - b) Processes
 - c) Services
 - d) Value Streams
+<details>Answer: c</details>
 <br>
 
 #### Q55. According to ITIL 4, an unplanned interruption to service is called a/an:
@@ -739,4 +835,8 @@
 - b) Incident
 - c) Problem
 - d) Workaround
+<details>Answer: b</details>
+<br>
+
+[Back](README.md)
 
