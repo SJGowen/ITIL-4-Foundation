@@ -40,11 +40,11 @@
 - d) Increase sales
 
 #### Q2. A service relationship is based on several activities, including:
-i Service Provision
-ii Service Consumption
-iii Service Management
-iv Service Relationship Management
-v Definition of Service
+- i Service Provision
+- ii Service Consumption
+- iii Service Management
+- iv Service Relationship Management
+- v Definition of Service
 
 - a) i and ii only
 - b) i, ii, and iv
