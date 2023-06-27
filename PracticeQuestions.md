@@ -1,7 +1,6 @@
 ﻿### Practice Questions
 
 #### Service Management: Key Concepts
-<br>
 
 #### Q1. What should be the main objective of an organization?
 - a) Reduce costs
@@ -17,6 +16,7 @@
 - iv Service Relationship Management
 - v Definition of Service
 <br>
+
 - a) i and ii only
 - b) i, ii, and iv
 - c) i, ii, iv and v
@@ -35,6 +35,7 @@
 - ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
 - iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
 <br>
+
 - a) i and ii only
 - b) i and iii only
 - c) ii and iii only
@@ -73,6 +74,7 @@
 - i The management of the consumers’ resources needed to use the service
 - ii The service uses, actions performed by users
 - iii The receiving (acquiring) of goods
+<br>
 
 - a) iii only
 - b) i and iii only
@@ -102,7 +104,6 @@
 <br>
 
 #### The Guiding Principles
-<br>
 
 #### Q1. Collaborate and promote visibility is:
 - a) A key component of value generation
@@ -130,6 +131,7 @@
 - ii The guiding principles can be used to help organizations adapt the ITIL guidance to specific needs.
 - iii The guiding principles must be used to introduce new technology to an organization.
 <br>
+
 - a) iii only
 - b) i and iii only
 - c) i and ii only
@@ -193,7 +195,6 @@
 <br>
 
 #### The Four Dimensions of Service Management
-<br>
 
 #### Q1. Which of the following options correctly specifies the four dimensions of Service Management?
 - a) People, Social aspects, Processes, Economics
@@ -317,7 +318,6 @@
 <br>
 
 #### The ITIL Practices
-<br>
 
 #### Q1. Which management practice supports the identification and improvement of services and developing techniques of an improvement culture across the organization?
 - a) Knowledge management
@@ -499,6 +499,7 @@
 - ii Customer feedback
 - iii Operational metrics
 - iv Business metrics
+<br>
 
 - a) i and ii only
 - b) ii and iv only
@@ -595,6 +596,7 @@
 - iii A temporary team may be required for major incidents.
 - iv Disaster recovery plans may be invoked to resolve incidents.
 <br>
+
 - a) i and iii only
 - b) i, ii, and iii only
 - c) i, iii, and iv only
@@ -621,6 +623,7 @@
 - iii A user phone to report a printer out of order
 - iv A user phone to get access to a printer
 <br>
+
 - a) i and ii only
 - b) i and iv only
 - c) i, ii, and iv only
@@ -633,6 +636,7 @@
 - iii Workflows for service requests should be established and documented.
 - iv Fulfilment times for every request should be determined upfront and communicated to users.
 <br>
+
 - a) i and iii only
 - b) ii, iii, and iv only
 - c) i, ii, and iii only
@@ -653,6 +657,7 @@
 - iv Knowledge base
 - v Remote access tools
 <br>
+
 - a) iii, iv, and v only
 - b) ii, iv, and v only
 - c) i, ii, iii, and iv only
