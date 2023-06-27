@@ -1,41 +1,6 @@
 ﻿### Practice Questions
 
-### Service Management: Key Concepts
-<br>
-
-#### Q1. What should be the main objective of an organization?
-- A. Reduce costs
-- B. Create value
-- C. Reduce risks
-- D. Increase sales
-<details>Answer B is correct</details>
-<br>
-<br>
-
-#### Q2. A service relationship is based on several activities, including:
-1. Service Provision
-2. Service Consumption
-3. Service Management
-4. Service Relationship Management
-5. Definition of Service
-
-- A. 1 and 2 only
-- B. 1, 2, and 4
-- C. 1, 2,4 and 5
-- D. All of the given
-<details>Answer B is correct</details>
-<br>
-<br>
-
-#### Q3. Which of the following options is an example of utility?
-- A. Availability of a service when the customer wants to use i
-- B. Ability to print an invoice at the click of a button
-- C. Access the Invoice Service from a mobile phone 24/7
-- D. Service restoring itself in the background whilst the customer continues working
-<details>Answer B is correct</details>
-<br>
-
-### Service Management: Key Concepts
+#### Service Management: Key Concepts
 <br>
 
 #### Q1. What should be the main objective of an organization?
@@ -43,7 +8,6 @@
 - b) Create value
 - c) Reduce risks
 - d) Increase sales
-<br>
 <br>
 
 #### Q2. A service relationship is based on several activities, including:
@@ -58,7 +22,6 @@
 - c) i, ii, iv and v
 - d) All of the given
 <br>
-<br>
 
 #### Q3. Which of the following options is an example of utility?
 - a) Availability of a service when the customer wants to use it
@@ -66,18 +29,16 @@
 - c) Access the Invoice Service from a mobile phone 24/7
 - d) Service restoring itself in the background whilst the customer continues working
 <br>
-<br>
 
 #### Q4. Which of the following statements is true?
-i Understanding the complexity of service relationships and each party’s responsibilities, organizations are more likely to co-create value and make the relationships mutually beneficial.
-ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
-iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
+- i Understanding the complexity of service relationships and each party’s responsibilities, organizations are more likely to co-create value and make the relationships mutually beneficial.
+- ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
+- iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
 
 - a) i and ii only
 - b) i and iii only
 - c) ii and iii only
 - d) All of the given
-<br>
 <br>
 
 #### Q5. Value for the service consumer:
@@ -109,9 +70,9 @@ iii Understanding the responsibilities of roles, service consumers and service p
 <br>
 
 #### Q9. Which of the following activities is included in ‘service consumption’?
-i The management of the consumers’ resources needed to use the service
-ii The service uses, actions performed by users
-iii The receiving (acquiring) of goods
+- i The management of the consumers’ resources needed to use the service
+- ii The service uses, actions performed by users
+- iii The receiving (acquiring) of goods
 
 - a) iii only
 - b) i and iii only
@@ -165,9 +126,9 @@ iii The receiving (acquiring) of goods
 <br>
 
 #### Q4. Which of the following statements reflects the best use of the ITIL guiding principles?
-i The guiding principles can be used to guide in the adoption of a service management approach.
-ii The guiding principles can be used to help organizations adapt the ITIL guidance to specific needs.
-iii The guiding principles must be used to introduce new technology to an organization.
+- i The guiding principles can be used to guide in the adoption of a service management approach.
+- ii The guiding principles can be used to help organizations adapt the ITIL guidance to specific needs.
+- iii The guiding principles must be used to introduce new technology to an organization.
 
 - a) iii only
 - b) i and iii only
@@ -535,10 +496,10 @@ iii The guiding principles must be used to introduce new technology to an organi
 <br>
 
 #### Q26. Service level management includes collating and analyzing information from a number of sources. These sources include:
-i Customer engagement
-ii Customer feedback
-iii Operational metrics
-iv Business metrics
+- i Customer engagement
+- ii Customer feedback
+- iii Operational metrics
+- iv Business metrics
 
 - a) i and ii only
 - b) ii and iv only
@@ -568,8 +529,8 @@ iv Business metrics
 <br>
 
 #### Q30. Which of the following statements about continual improvement register (CIR) is correct?
-i The CIR is used as the basis for re-prioritizing improvement ideas, as and when new ideas are documented.
-ii The structure of the information captured in a CIR is an important consideration.
+- i The CIR is used as the basis for re-prioritizing improvement ideas, as and when new ideas are documented.
+- ii The structure of the information captured in a CIR is an important consideration.
 
 - a) Both i and ii are correct.
 - b) Only i is correct.
@@ -585,8 +546,8 @@ ii The structure of the information captured in a CIR is an important considerat
 <br>
 
 #### Q32. Which of the following statements about service level agreements (SLAs) is correct?
-i An SLA does not relate to an agreement of engagement and discussion between the service provider and consumer.
-ii An SLA should relate to defined outcomes for a service.
+- i An SLA does not relate to an agreement of engagement and discussion between the service provider and consumer.
+- ii An SLA should relate to defined outcomes for a service.
 
 - a) Both i and ii are correct.
 - b) Only i is correct.
@@ -630,10 +591,10 @@ ii An SLA should relate to defined outcomes for a service.
 <br>
 
 #### Q38. Which of the following statements about incident management is true?
-i Some incidents will be resolved by the user themselves, using self-help.
-ii Incidents should not be escalated to suppliers or partners to ensure company information is kept confidential.
-iii A temporary team may be required for major incidents.
-iv Disaster recovery plans may be invoked to resolve incidents.
+- i Some incidents will be resolved by the user themselves, using self-help.
+- ii Incidents should not be escalated to suppliers or partners to ensure company information is kept confidential.
+- iii A temporary team may be required for major incidents.
+- iv Disaster recovery plans may be invoked to resolve incidents.
 
 - a) i and iii only
 - b) i, ii, and iii only
@@ -656,10 +617,10 @@ iv Disaster recovery plans may be invoked to resolve incidents.
 <br>
 
 #### Q41. Which of the following are good examples of requests?
-i A request to provide access to a specific report
-ii A user phone to inquire about the office hours
-iii A user phone to report a printer out of order
-iv A user phone to get access to a printer
+- i A request to provide access to a specific report
+- ii A user phone to inquire about the office hours
+- iii A user phone to report a printer out of order
+- iv A user phone to get access to a printer
 
 - a) i and ii only
 - b) i and iv only
@@ -668,10 +629,10 @@ iv A user phone to get access to a printer
 <br>
 
 #### Q42. Which of the following statements regarding service requests is true?
-i A limited number of additional authorizations for requests are preferred.
-ii Automation of requests should be encouraged to improve efficiencies.
-iii Workflows for service requests should be established and documented.
-iv Fulfilment times for every request should be determined upfront and communicated to users.
+- i A limited number of additional authorizations for requests are preferred.
+- ii Automation of requests should be encouraged to improve efficiencies.
+- iii Workflows for service requests should be established and documented.
+- iv Fulfilment times for every request should be determined upfront and communicated to users.
 
 - a) i and iii only
 - b) ii, iii, and iv only
@@ -687,11 +648,11 @@ iv Fulfilment times for every request should be determined upfront and communica
 <br>
 
 #### Q44. Which of the following elements is a key to have as part of the service desk?
-i Intelligent telephony system
-ii Workflow systems for routing and escalation
-iii Workforce management and resource planning systems
-iv Knowledge base
-v Remote access tools
+- i Intelligent telephony system
+- ii Workflow systems for routing and escalation
+- iii Workforce management and resource planning systems
+- iv Knowledge base
+- v Remote access tools
 
 - a) iii, iv, and v only
 - b) ii, iv, and v only
