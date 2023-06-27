@@ -16,7 +16,7 @@
 - iii Service Management
 - iv Service Relationship Management
 - v Definition of Service
-
+<br>
 - a) i and ii only
 - b) i, ii, and iv
 - c) i, ii, iv and v
@@ -34,7 +34,7 @@
 - i Understanding the complexity of service relationships and each party’s responsibilities, organizations are more likely to co-create value and make the relationships mutually beneficial.
 - ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
 - iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
-
+<br>
 - a) i and ii only
 - b) i and iii only
 - c) ii and iii only
@@ -129,7 +129,7 @@
 - i The guiding principles can be used to guide in the adoption of a service management approach.
 - ii The guiding principles can be used to help organizations adapt the ITIL guidance to specific needs.
 - iii The guiding principles must be used to introduce new technology to an organization.
-
+<br>
 - a) iii only
 - b) i and iii only
 - c) i and ii only
@@ -245,7 +245,6 @@
 <br>
 
 ####: The ITIL Service Value System
-<br>
 
 #### Q1. Which of the following options is linked to ‘representing options or possibilities to add value’?
 - a) Demand
@@ -531,7 +530,7 @@
 #### Q30. Which of the following statements about continual improvement register (CIR) is correct?
 - i The CIR is used as the basis for re-prioritizing improvement ideas, as and when new ideas are documented.
 - ii The structure of the information captured in a CIR is an important consideration.
-
+<br>
 - a) Both i and ii are correct.
 - b) Only i is correct.
 - c) Only ii is correct.
@@ -595,7 +594,7 @@
 - ii Incidents should not be escalated to suppliers or partners to ensure company information is kept confidential.
 - iii A temporary team may be required for major incidents.
 - iv Disaster recovery plans may be invoked to resolve incidents.
-
+<br>
 - a) i and iii only
 - b) i, ii, and iii only
 - c) i, iii, and iv only
@@ -621,7 +620,7 @@
 - ii A user phone to inquire about the office hours
 - iii A user phone to report a printer out of order
 - iv A user phone to get access to a printer
-
+<br>
 - a) i and ii only
 - b) i and iv only
 - c) i, ii, and iv only
@@ -633,7 +632,7 @@
 - ii Automation of requests should be encouraged to improve efficiencies.
 - iii Workflows for service requests should be established and documented.
 - iv Fulfilment times for every request should be determined upfront and communicated to users.
-
+<br>
 - a) i and iii only
 - b) ii, iii, and iv only
 - c) i, ii, and iii only
@@ -653,7 +652,7 @@
 - iii Workforce management and resource planning systems
 - iv Knowledge base
 - v Remote access tools
-
+<br>
 - a) iii, iv, and v only
 - b) ii, iv, and v only
 - c) i, ii, iii, and iv only
