@@ -1,6 +1,6 @@
 ﻿### Practice Questions
 
-#### Service Management: Key Concepts
+### Service Management: Key Concepts
 
 #### Q1. What should be the main objective of an organization?
 - a) Reduce costs
@@ -115,7 +115,7 @@
 <details>Answer: c</details>
 <br>
 
-#### The Guiding Principles
+### The Guiding Principles
 
 #### Q1. Collaborate and promote visibility is:
 - a) A key component of value generation
@@ -218,7 +218,7 @@
 <details>Answer: c</details>
 <br>
 
-#### The Four Dimensions of Service Management
+### The Four Dimensions of Service Management
 
 #### Q1. Which of the following options correctly specifies the four dimensions of Service Management?
 - a) People, Social aspects, Processes, Economics
@@ -276,7 +276,7 @@
 <details>Answer: d</details>
 <br>
 
-####: The ITIL Service Value System
+### The ITIL Service Value System
 
 #### Q1. Which of the following options is linked to ‘representing options or possibilities to add value’?
 - a) Demand
@@ -358,7 +358,7 @@
 <details>Answer: d</details>
 <br>
 
-#### The ITIL Practices
+### The ITIL Practices
 
 #### Q1. Which management practice supports the identification and improvement of services and developing techniques of an improvement culture across the organization?
 - a) Knowledge management
