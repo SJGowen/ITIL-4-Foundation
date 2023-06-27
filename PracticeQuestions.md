@@ -31,6 +31,7 @@
 - D. Service restoring itself in the background whilst the customer continues working
 <details>Answer B is correct</details>
 <br>
+
 ### Service Management: Key Concepts
 
 #### Q1. What should be the main objective of an organization?
@@ -38,6 +39,7 @@
 - b) Create value
 - c) Reduce risks
 - d) Increase sales
+<br>
 
 #### Q2. A service relationship is based on several activities, including:
 - i Service Provision
@@ -45,27 +47,30 @@
 - iii Service Management
 - iv Service Relationship Management
 - v Definition of Service
-
+<br>
 - a) i and ii only
 - b) i, ii, and iv
 - c) i, ii, iv and v
 - d) All of the given
+<br>
 
 #### Q3. Which of the following options is an example of utility?
 - a) Availability of a service when the customer wants to use it
 - b) Ability to print an invoice at the click of a button
 - c) Access the Invoice Service from a mobile phone 24/7
 - d) Service restoring itself in the background whilst the customer continues working
+<br>
 
 #### Q4. Which of the following statements is true?
 i Understanding the complexity of service relationships and each party’s responsibilities, organizations are more likely to co-create value and make the relationships mutually beneficial.
 ii Understanding the components of value, organizations can make informed decisions about the services they provide and consume and about the service relationships.
 iii Understanding the responsibilities of roles, service consumers and service providers can improve their relationship management and effectiveness of negotiations and communications.
-
+<br>
 - a) i and ii only
 - b) i and iii only
 - c) ii and iii only
 - d) All of the given
+<br>
 
 #### Q5. Value for the service consumer:
 - a) Changes over time
