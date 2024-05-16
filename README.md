@@ -60,7 +60,7 @@ Total of 40 multiple choice questions - Pass is 26/40 (65%)
 ### Questions
 - [Sample Paper 1](SamplePaper1.md)
 - [Sample Paper 2](SamplePaper2.md)
-[//]:# - [Practice Questions](PracticeQuestions.md)
+[comment]: <> - [Practice Questions](PracticeQuestions.md)
 
 ### ITIL4 Tips
 - [ITIL4 Tips](ITIL4Tips.md)
